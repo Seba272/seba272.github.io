@@ -10,8 +10,9 @@
 {% endif %}
 
 <div id="{{entry.key}}">
-  {% if entry.type == "thesis" %}
-    {{reference}}
+  {% if entry.type == "phdthesis" %}
+		<span class="title">"{{entry.title}}"</span>
+		<span class="description">{{entry.note}}</span>
   {% else %}
     <span class="title">"{{entry.title}}"</span>
 		{% if entry.author %}

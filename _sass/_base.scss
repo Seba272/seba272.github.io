@@ -25,7 +25,7 @@ body {
   -webkit-box-sizing: border-box;
 	min-height: 100%;
 	position: relative;
-}
+	}
 
 .wrapper {
     max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
