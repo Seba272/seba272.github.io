@@ -1,9 +1,7 @@
 @charset "UTF-8";
 
-html, body {
-  height: auto;
-  min-height: 100%;
-  -webkit-text-size-adjust: 100%;
+html {
+  height: 100%;
 }
 
 img {
@@ -15,10 +13,18 @@ em img {
   margin-left: 0;
 }
 
+*,
+*:before,
+*:after {
+	  box-sizing: inherit;
+	}
+
 body {
           box-sizing: border-box;
      -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+	min-height: 100%;
+	position: relative;
 }
 
 .wrapper {
@@ -30,3 +36,5 @@ body {
     padding-left: $horizontal-spacing-unit;
     @extend .clearfix;
 }
+
+

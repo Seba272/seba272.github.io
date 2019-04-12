@@ -4,7 +4,8 @@ html {
 
 body {
     color: $text-color;
-    font-weight: 100;	
+    font-weight: 100;
+		font-family: $font-family;	
 }
 
 abbr {
@@ -13,11 +14,16 @@ abbr {
 }
 
 p {
-    color: #333;
-    line-height: 1.5;
+    color: #111111; // #333;
+    line-height: 31px; // 1.5;
 		text-align: justify;
 	  text-justify: inter-word;
 }
+
+//p.address{
+//		font-family: $monospace-font-family;
+//		font-size: $small-font-size;
+//}
 
 small,
 .small {
