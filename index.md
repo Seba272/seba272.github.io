@@ -31,7 +31,7 @@ Primarily, I study Lie groups equipped with non-Riemannian distances such as **C
 Motivated by the asymptotic geometry of nilpotent groups, I work on **Carnot groups**. 
 In particular, I am interested in the regularity of submanifolds such as **metric spheres** and **minimal surfaces**.
 
-If you want to know more about me, here is my [CV](). 
+If you want to know more about me, here is my [CV](/assets/pdf/SebastianoNicolussiGolo-CurriculumVitae-2019.pdf). 
 If you want to contact me, you can write me an email to <sebastiano.nicolussi@math.unipd.it>.
 My ORCID ID is: [0000-0002-3773-6471](http://orcid.org/0000-0002-3773-6471).
 
