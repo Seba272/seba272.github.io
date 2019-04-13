@@ -6,11 +6,11 @@ $base-font-size: 18px !default;
 $small-font-size: 0.875rem !default;
 $bold-font-weight: bold !default;
 $font-family: 'Spectral', serif; //"Times New Roman", Times, serif; //Georgia, serif !default; //Helvetica, Arial, sans-serif !default;
-$line-height: 1.5 !default;
+$line-height: 1 !default; // 1.5 !default;
 $heading-font-family: 'Spectral', serif; //Georgia, serif; //Helvetica, sans-serif !default;
 $heading-font-weight: 900 !default;
 $heading-line-height: 1.25 !default;
-$monospace-font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, monospace; //'Source Code Pro', Consolas, monospace !default;
+$monospace-font-family: Menlo, monospace !default; //SFMono-Regular, Consolas, "Liberation Mono", Menlo, Courier, monospace; //'Source Code Pro', Consolas, monospace !default;
 $h1: 2.998rem !default;
 $h2: 1.5rem !default;
 $h3: 1.25rem !default;
@@ -89,7 +89,7 @@ $space-2: 1rem !default;
 $space-3: 2rem !default;
 $space-4: 4rem !default;
 
-$horizontal-spacing-unit:       50px;
+$horizontal-spacing-unit:       00px; //50px; // Horizontal width of the page: 800 - 2($horizontal-spacing-unit) : see ".wrapper" in _sass/_base.scss 
 $vertical-spacing-unit:         40px;
 $nav-height:                    56px;
 
