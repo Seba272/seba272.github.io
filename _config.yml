@@ -91,10 +91,10 @@ plugins:
     - jekyll/scholar
 #    - jemoji
 
-# Jekyll-Scholar
+# Jekyll-Scholar : https://github.com/inukshuk/jekyll-scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Nicolussi Golo
 
   style: apa
   locale: en
