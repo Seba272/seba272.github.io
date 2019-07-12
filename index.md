@@ -35,14 +35,117 @@ If you want to know more about me, here is my [CV](/assets/pdf/SebastianoNicolus
 If you want to contact me, you can write me an email to <sebastiano.nicolussi@math.unipd.it>.
 My ORCID ID is: [0000-0002-3773-6471](http://orcid.org/0000-0002-3773-6471).
 
+---
+
 Publications
 ============
 
 ### Preprints
 
-{% bibliography -f preprints %}
+*	"Metric Lie groups admitting dilations"  
+	(with E. Le Donne)  
+	[[arXiv](https://arxiv.org/abs/1901.02559/)]
+	[[cvgmt](http://cvgmt.sns.it/paper/4185/)]
+<!-- -->
+* "The Bernstein problem for Lipschitz intrinsic graphs in the Heisenberg group"  
+	(with F. Serra Cassano)  
+	[[arXiv](https://arxiv.org/abs/1809.04586/)]
+	[[cvgmt](http://cvgmt.sns.it/paper/4042/)]
+<!-- -->
+* "Polarised Lie groups contactomorphic to stratified groups"  
+	(with A. Ottazzi)  
+	[[arXiv](https://arxiv.org/abs/1807.03854/)]
+<!-- -->
+* "Spectral multipliers and wave equation for sub-Laplacians: lower bounds of Euclidean type"  
+	(with A. Martini, D. Müller)  
+	[[arXiv](https://arxiv.org/abs/1812.02671/)]
+<!-- -->
+* "Quasiregular mappings between subRiemannian manifolds"  
+	(with C.-Y. Guo, M. Williams)  
+	[[arXiv](https://arxiv.org/abs/1505.00891/)]
+<!-- -->
+* "From homogeneous metric spaces to Lie groups"  
+	(with M. G. Cowling, V. Kivioja, E. Le Donne, A. Ottazzi )  
+	[[arXiv](https://arxiv.org/abs/1705.09648/)]
+
+
 
 ### Published papers
 
-{% bibliography -f papers %}
+0. "The Besicovitch covering property in the Heisenberg group revisited"   
+	(with S. Rigot)  
+	_The Journal of Geometric Analysis_ 2018  
+	[[Paper](https://link.springer.com/article/10.1007%2Fs12220-018-00112-z)]
+	[[arXiv](https://arxiv.org/abs/1803.04502)]
+<!-- -->
+0. "Some remarks on contact variations in the first Heisenberg group"  
+	_Ann. Acad. Sci. Fenn. Math._ 2018  
+	[[Paper](http://www.acadsci.fi/mathematica/Vol43/Golo.html)]
+	[[arXiv](https://arxiv.org/abs/1611.07358)]
+	[[cvgmt](http://cvgmt.sns.it/paper/2928/)]
+<!-- -->
+0. "Regularity properties of spheres in homogeneous groups"  
+	(with E. Le Donne)  
+	_Trans. Amer. Math. Soc._ 2018  
+	[[Paper](http://www.ams.org/journals/tran/2018-370-03/S0002-9947-2017-07038-0/)]
+	[[arXiv](https://arxiv.org/abs/1509.03881)]
+	[[cvgmt](http://cvgmt.sns.it/paper/2794/)]
+<!-- -->
+0. "Topics in the geometry of non-Riemannian lie groups"  
+	PhD Thesis, University of Jyväskylä, 2017  
+	[[Online](https://jyx.jyu.fi/handle/123456789/55196)]
+<!-- -->
+0. "Asymptotic behavior of the Riemannian Heisenberg group and its horoboundary"  
+	(with E. Le Donne, A. Sambusetti)  
+	_Ann. Mat. Pura Appl. (4)_ 2017  
+	[[Paper](https://link.springer.com/article/10.1007%2Fs10231-016-0615-2)]
+	[[arXiv](https://arxiv.org/abs/1509.00288)]
+	[[cvgmt](http://cvgmt.sns.it/paper/2793/)]
+<!-- -->
+0. "A historical account on characterizations of C^1-manifolds in Euclidean spaces by tangent cones"  
+	(with F. Bigolin)  
+	_J. Math. Anal. Appl._ 2014  
+	[[Paper](https://www.sciencedirect.com/science/article/pii/S0022247X13009396/)]
+<!-- -->
+{: reversed="reversed"}
+
+---
+
+Collaborators
+=============
+<!--
+- Francesco Bigolin
+- [Michael G. Cowling](https://web.maths.unsw.edu.au/~michaelc/)
+- [Moon Duchin](https://mduchin.math.tufts.edu/)
+- Chang-Yu Guo
+- Ville Kivioja
+- [Enrico Le Donne](https://sites.google.com/site/enricoledonne/)
+- [Alessio Martini](https://sites.google.com/site/mrtnale/)
+- [Detlef Müller](http://www.math.uni-kiel.de/analysis/de/mueller/prof.-dr.-detlef-mueller)
+- [Alessandro Ottazzi](https://sites.google.com/site/alessandroottazzi/)
+- [Séverine Rigot](https://math.unice.fr/~rigot/)
+- [Manuel Ritoré](http://www.ugr.es/~ritore/)
+- [Andrea Sambusetti](http://www1.mat.uniroma1.it/people/sambusetti/andreas_webpage/home.html)
+- [Raul Serapioni](http://www.science.unitn.it/~serapion/)
+- [Francesco Serra Cassano](https://webapps.unitn.it/du/it/Persona/PER0004233/Curriculum#INFO)
+- Ben Warhurst
+- Marshall Williams
+-->
+
+Francesco Bigolin  
+[Michael G. Cowling](https://web.maths.unsw.edu.au/~michaelc/)  
+[Moon Duchin](https://mduchin.math.tufts.edu/)  
+Chang-Yu Guo  
+Ville Kivioja  
+[Enrico Le Donne](https://sites.google.com/site/enricoledonne/)  
+[Alessio Martini](https://sites.google.com/site/mrtnale/)  
+[Detlef Müller](http://www.math.uni-kiel.de/analysis/de/mueller/prof.-dr.-detlef-mueller)  
+[Alessandro Ottazzi](https://sites.google.com/site/alessandroottazzi/)  
+[Séverine Rigot](https://math.unice.fr/~rigot/)  
+[Manuel Ritoré](http://www.ugr.es/~ritore/)  
+[Andrea Sambusetti](http://www1.mat.uniroma1.it/people/sambusetti/andreas_webpage/home.html)  
+[Raul Serapioni](http://www.science.unitn.it/~serapion/)  
+[Francesco Serra Cassano](https://webapps.unitn.it/du/it/Persona/PER0004233/Curriculum#INFO)  
+Ben Warhurst  
+Marshall Williams  
 
