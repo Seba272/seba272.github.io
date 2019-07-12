@@ -33,6 +33,17 @@ ul {
   padding-left: $space-3;
 }
 
+/*In the following two commands,
+we put a margin of 1rem under
+each item of ordered and unordered lists */
+ol li {
+	margin-bottom: 1rem;
+}
+
+ul li {
+	margin-bottom: 1rem;
+}
+
 pre,
 code,
 samp {
