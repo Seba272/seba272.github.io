@@ -47,11 +47,6 @@ Publications
 	[[arXiv](https://arxiv.org/abs/1901.02559/)]
 	[[cvgmt](http://cvgmt.sns.it/paper/4185/)]
 <!-- -->
-* "The Bernstein problem for Lipschitz intrinsic graphs in the Heisenberg group"  
-	(with F. Serra Cassano)  
-	[[arXiv](https://arxiv.org/abs/1809.04586/)]
-	[[cvgmt](http://cvgmt.sns.it/paper/4042/)]
-<!-- -->
 * "Polarised Lie groups contactomorphic to stratified groups"  
 	(with A. Ottazzi)  
 	[[arXiv](https://arxiv.org/abs/1807.03854/)]
@@ -72,6 +67,13 @@ Publications
 
 ### Published papers
 
+0. "The Bernstein problem for Lipschitz intrinsic graphs in the Heisenberg group"  
+	(with F. Serra Cassano)  
+	_Calculus of Variations and Partial Differential Equations_ **58**  141  (2019)  
+	[[Paper](https://doi.org/10.1007/s00526-019-1581-5)]
+	[[arXiv](https://arxiv.org/abs/1809.04586/)]
+	[[cvgmt](http://cvgmt.sns.it/paper/4042/)]
+<!-- -->
 0. "The Besicovitch covering property in the Heisenberg group revisited"   
 	(with S. Rigot)  
 	_The Journal of Geometric Analysis_ 2018  
