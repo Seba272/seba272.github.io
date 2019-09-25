@@ -35,6 +35,13 @@ If you want to know more about me, here is my [CV](/assets/pdf/SebastianoNicolus
 If you want to contact me, you can write me an email to <sebastiano.nicolussi@math.unipd.it>.
 My ORCID ID is: [0000-0002-3773-6471](http://orcid.org/0000-0002-3773-6471).
 
+----
+
+Special Pages
+=============
+
+* [GeA: seminario di Geometria e Analisi a Padova](pages/GeA) 
+
 ---
 
 Publications
