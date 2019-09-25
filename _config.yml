@@ -88,32 +88,32 @@ exclude: [vendor]
 plugins:
     - jekyll-email-protect
     - jekyll-paginate
-    - jekyll/scholar
+#    - jekyll/scholar
 #    - jemoji
 
 # Jekyll-Scholar : https://github.com/inukshuk/jekyll-scholar
-scholar:
-
-  last_name: Nicolussi Golo
-
-  style: apa
-  locale: en
-
-  sort_by: year
-  order: descending
-
-  source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
-
-  replace_strings: true
-  join_strings: true
-
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
-
-  query: "@*"
+#scholar:
+#
+#  last_name: Nicolussi Golo
+#
+#  style: apa
+#  locale: en
+#
+#  sort_by: year
+#  order: descending
+#
+#  source: /_bibliography/
+#  bibliography: papers.bib
+#  bibliography_template: bib
+#
+#  replace_strings: true
+#  join_strings: true
+#
+#  details_dir: bibliography
+#  details_layout: bibtex.html
+#  details_link: Details
+#
+#  query: "@*"
 
 # -----------------------------------------------------------------------------
 # Other settings
