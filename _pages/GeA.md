@@ -11,7 +11,7 @@ Lunedì 20 Ottobre 2019, ore 11, Aula 2AB45
 
 **On the geometry of soap films and soap bubbles**
 
-_[Andrea Marchese](https://sites.google.com/view/andrea-marchese/home)_ (Università di Pavia)
+**_Andrea Marchese_** (Università di Pavia)
 
 _Abstract:_ 
 I will discuss a recent result establishing that area minimizing
@@ -27,7 +27,7 @@ Lunedì 11 Novembre 2019, ore 12 (non 11!), Aula 2AB45
 
 **TBA**
 
-_[Stefano Bianchini](https://people.sissa.it/~bianchin/)_ (Sissa, Trieste)
+**_Stefano Bianchini_** (Sissa, Trieste)
 
 ----
 
@@ -41,7 +41,7 @@ Lunedì 9 Dicembre 2019, ore 11
 
 **TBA**
 
-_[Valentina Franceschi](https://sites.google.com/site/franceschivale/)_ (Sorbonne Université, Parigi)
+**_Valentina Franceschi_** (Sorbonne Université, Parigi)
 
 ----
 
