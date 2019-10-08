@@ -7,7 +7,7 @@ description: Semiario di Geometria e Analisi a Padova
 
 ----
 
-Lunedì 20 Ottobre 2019, ore 11, Aula 2AB45
+Lunedì 28 Ottobre 2019, ore 11, Aula 2AB45
 
 **On the geometry of soap films and soap bubbles**
 
@@ -31,13 +31,15 @@ Lunedì 11 Novembre 2019, ore 12 (non 11!), Aula 2AB45
 
 ----
 
-Lunedì 25 Novembre 2019
+Lunedì 25 Novembre 2019, ore 11, Aula 2AB45
 
 **TBA**
 
+**_Andrea Merlo_** (Pisa)
+
 ----
 
-Lunedì 9 Dicembre 2019, ore 11
+Lunedì 9 Dicembre 2019, ore 11, Aula 2AB45
 
 **TBA**
 
