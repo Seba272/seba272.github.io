@@ -40,11 +40,17 @@ My ORCID ID is: [0000-0002-3773-6471](http://orcid.org/0000-0002-3773-6471).
 Special Pages
 =============
 
-* [GeA: seminario di Geometria e Analisi a Padova](pages/GeA) 
+* [GeA](pages/GeA): seminario di Geometria e Analisi a Padova.
+* [Didattica](https://www.math.unipd.it/~fabio/didattica/index_didattica.html):
+	"Analisi Matematica 1" per Ingegneria Meccanica, tenuto da Fabio Paronetto.
 * [Latest in Geometric Analysis. Celebration of Pekka Koskela's 59th birthday](https://www.impan.pl/en/activities/banach-center/conferences/19-latest): 
 	in Będlewo (Poland), 24.11.2019 - 30.11.2019
 * [Sub-Riemannian Geometry and Beyond, III](https://sites.google.com/view/pisa2020):
-	A gist on Lie groups in Pisa. Introductory courses: 19 May 2020 - 23 May 2020; The conference: 25 May 2020 - 29 May 2020.
+	A gist on Lie groups in Pisa.  
+	Introductory courses: 19 May 2020 - 23 May 2020; 
+	[http://crm.sns.it/event/462/](http://crm.sns.it/event/462/)  
+	The conference: 25 May 2020 - 29 May 2020;
+	[http://crm.sns.it/event/452/](http://crm.sns.it/event/452/)  
 
 ---
 
