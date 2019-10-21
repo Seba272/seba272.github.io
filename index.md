@@ -41,6 +41,10 @@ Special Pages
 =============
 
 * [GeA: seminario di Geometria e Analisi a Padova](pages/GeA) 
+* [Latest in Geometric Analysis. Celebration of Pekka Koskela's 59th birthday](https://www.impan.pl/en/activities/banach-center/conferences/19-latest): 
+	in Będlewo (Poland), 24.11.2019 - 30.11.2019
+* [Sub-Riemannian Geometry and Beyond, III](https://sites.google.com/view/pisa2020):
+	A gist on Lie groups in Pisa. Introductory courses: 19 May 2020 - 23 May 2020; The conference: 25 May 2020 - 29 May 2020.
 
 ---
 
