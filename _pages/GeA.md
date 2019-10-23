@@ -33,9 +33,18 @@ Lunedì 11 Novembre 2019, ore 12 (non 11!), Aula 2AB45
 
 Lunedì 25 Novembre 2019, ore 11, Aula 2AB45
 
-**TBA**
+**Geometry of 1-codimensional measures in the Heisenberg groups**
 
 **_Andrea Merlo_** (Pisa)
+
+_Abstract:_
+Characterisation of rectifiable measures in Euclidean spaces through the existence of the density has
+been a longstanding problem for Geometric Measure Theory until the complete answer by D. Preiss
+in 1987. The question of how in more general metric spaces existence of density can affect any kind
+of gain in terms of regularity of the measure is a completely open problem.
+In this talk I will discuss how the mere existence of the 1-codimensional density for a measure in
+the Heisenberg groups endowed with the Koranyi metric implies that almost everywhere the tangents
+to the measure are flat.
 
 ----
 
