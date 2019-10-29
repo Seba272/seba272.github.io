@@ -56,5 +56,13 @@ Lunedì 9 Dicembre 2019, ore 11, Aula 2AB45
 
 ----
 
+Mercoledì 18 Dicembre 2019, ore 11, Aula 430
+
+**TBA**
+
+**_Sebastiano Don_** (University of Jyväskylä)
+
+----
+
 
 
