@@ -56,7 +56,8 @@ Lunedì 9 Dicembre 2019, ore 11, Aula 2AB45
 
 ----
 
-Mercoledì 18 Dicembre 2019, ore 11, Aula 430
+Mercoledì 18 Dicembre 2019, ore 11, Aula 430  
+(Attenzione: non di lunedì e in un'aula diversa dal solito)
 
 **TBA**
 
