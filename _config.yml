@@ -54,7 +54,7 @@ contact_note: >
 # Optional features
 #show_social_icons:  false
 #enable_anchorjs:    false
-#enable_katex:       true # PER LA MATEMATICA !
+enable_katex:       true # PER LA MATEMATICA !
 
 # -----------------------------------------------------------------------------
 # Collections
