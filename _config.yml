@@ -90,6 +90,7 @@ plugins:
     - jekyll-paginate
 #    - jekyll/scholar
 #    - jemoji
+#    - jekyll-katex
 
 # Jekyll-Scholar : https://github.com/inukshuk/jekyll-scholar
 #scholar:
