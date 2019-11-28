@@ -4,31 +4,23 @@ title: GeA
 permalink: /pages/GeA
 description: Semiario di Geometria e Analisi a Padova
 ---
-
+ 
 <div class="col">
     <img class="col three" src="{{ site.baseurl }}/assets/img/logo-unipd-3.jpeg">
 </div>
 
-Lunedì 25 Novembre 2019, ore 11, Aula 2AB45
-
-**Geometry of 1-codimensional measures in the Heisenberg groups**
-
-**_Andrea Merlo_** (Pisa)
-
-_Abstract:_
-Characterisation of rectifiable measures in Euclidean spaces through the existence of the density has
-been a longstanding problem for Geometric Measure Theory until the complete answer by D. Preiss
-in 1987. The question of how in more general metric spaces existence of density can affect any kind
-of gain in terms of regularity of the measure is a completely open problem.
-In this talk I will discuss how the mere existence of the 1-codimensional density for a measure in
-the Heisenberg groups endowed with the Koranyi metric implies that almost everywhere the tangents
-to the measure are flat.
-
-----
 
 Lunedì 9 Dicembre 2019, ore 11, Aula 2AB45
 
+**Minimal bubble clusters in the plane with double density**
+
 **_Valentina Franceschi_** (Sorbonne Université, Parigi)
+
+
+_Abstract:_ 
+We present some results about minimal bubble clusters in the plane with double density. This amounts to find the best configuration of $m\in \mathbb N$ regions in the plane enclosing given volumes, in order to minimize their total perimeter, where perimeter and volume are defined by suitable densities.  We focus on a particular structure of such densities, which is inspired by a sub-Riemannian model, called the Grushin plane.  
+After an overview concerning existence of minimizers, we focus on their Steiner regularity, i.e., the fact that their boundaries are made of regular curves meeting at 120 degrees. We will show that this holds in a wide generality.  
+Although our initial motivation came from the study of the particular sub-Riemannian framework of the Grushin plane, our approach works in wide generality and is new even in the classical Euclidean case.
 
 ----
 
@@ -83,3 +75,19 @@ The unique flow generated in point 2 enjoys a weak differentiability property, a
 
 ----
 
+Lunedì 25 Novembre 2019, ore 11, Aula 2AB45
+
+**Geometry of 1-codimensional measures in the Heisenberg groups**
+
+**_Andrea Merlo_** (Pisa)
+
+_Abstract:_
+Characterisation of rectifiable measures in Euclidean spaces through the existence of the density has
+been a longstanding problem for Geometric Measure Theory until the complete answer by D. Preiss
+in 1987. The question of how in more general metric spaces existence of density can affect any kind
+of gain in terms of regularity of the measure is a completely open problem.
+In this talk I will discuss how the mere existence of the 1-codimensional density for a measure in
+the Heisenberg groups endowed with the Koranyi metric implies that almost everywhere the tangents
+to the measure are flat.
+
+----
