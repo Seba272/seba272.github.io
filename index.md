@@ -41,6 +41,7 @@ Special Pages
 =============
 
 * [GeA](pages/GeA): seminario di Geometria e Analisi a Padova.
+*	Miniworkshop [Geometric Measure Theory in Padova](https://gmtpadova2020.frama.site).
 * [Didattica](https://www.math.unipd.it/~fabio/didattica/index_didattica.html):
 	"Analisi Matematica 1" per Ingegneria Meccanica, tenuto da Fabio Paronetto.
 * [Latest in Geometric Analysis. Celebration of Pekka Koskela's 59th birthday](https://www.impan.pl/en/activities/banach-center/conferences/19-latest): 
