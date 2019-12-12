@@ -10,25 +10,18 @@ description: Semiario di Geometria e Analisi a Padova
 </div>
 
 
-Lunedì 9 Dicembre 2019, ore 11, Aula 2AB45
-
-**Minimal bubble clusters in the plane with double density**
-
-**_Valentina Franceschi_** (Sorbonne Université, Parigi)
-
-
-_Abstract:_ 
-We present some results about minimal bubble clusters in the plane with double density. This amounts to find the best configuration of $m\in \mathbb N$ regions in the plane enclosing given volumes, in order to minimize their total perimeter, where perimeter and volume are defined by suitable densities.  We focus on a particular structure of such densities, which is inspired by a sub-Riemannian model, called the Grushin plane.  
-After an overview concerning existence of minimizers, we focus on their Steiner regularity, i.e., the fact that their boundaries are made of regular curves meeting at 120 degrees. We will show that this holds in a wide generality.  
-Although our initial motivation came from the study of the particular sub-Riemannian framework of the Grushin plane, our approach works in wide generality and is new even in the classical Euclidean case.
-
-----
-
 Mercoledì 18 Dicembre 2019, ore 11, Aula 430  
 (Attenzione: non di lunedì e in un'aula diversa dal solito)
 
+**A rectifiability result for sets of finite perimeter in Carnot groups**
+
 **_Sebastiano Don_** (University of Jyväskylä)
 
+_Abstract:_
+After an introduction to the regularity problem for sets of finite perimeter in Carnot groups, we prove that the reduced boundary of a set of finite perimeter in a Carnot group can be covered by a countable union of sets satisfying a "cone property".  We show that this weak notion of rectifiability implies the intrinsic Lipschitz rectifiability in a class of Carnot groups including all filiform groups.
+This is a joint work with Enrico Le Donne, Terhi Moisala and Davide Vittone.
+
+----
 ----
 
 ## Past Talks
@@ -91,3 +84,18 @@ the Heisenberg groups endowed with the Koranyi metric implies that almost everyw
 to the measure are flat.
 
 ----
+
+Lunedì 9 Dicembre 2019, ore 11, Aula 2AB45
+
+**Minimal bubble clusters in the plane with double density**
+
+**_Valentina Franceschi_** (Sorbonne Université, Parigi)
+
+
+_Abstract:_ 
+We present some results about minimal bubble clusters in the plane with double density. This amounts to find the best configuration of $m\in \mathbb N$ regions in the plane enclosing given volumes, in order to minimize their total perimeter, where perimeter and volume are defined by suitable densities.  We focus on a particular structure of such densities, which is inspired by a sub-Riemannian model, called the Grushin plane.  
+After an overview concerning existence of minimizers, we focus on their Steiner regularity, i.e., the fact that their boundaries are made of regular curves meeting at 120 degrees. We will show that this holds in a wide generality.  
+Although our initial motivation came from the study of the particular sub-Riemannian framework of the Grushin plane, our approach works in wide generality and is new even in the classical Euclidean case.
+
+----
+
