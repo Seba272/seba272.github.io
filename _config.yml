@@ -76,8 +76,10 @@ enable_katex:       true # PER LA MATEMATICA !
 # -----------------------------------------------------------------------------
 
 # Build settings
-markdown: markdown 
- #kramdown
+#markdown: markdown 
+markdown: kramdown
+#kramdown:
+#  math_engine: mathjax
 highlighter: pygments
 
 # Includes & excludes
