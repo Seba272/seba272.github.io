@@ -9,17 +9,30 @@ description: Semiario di Geometria e Analisi a Padova
     <img class="col three" src="{{ site.baseurl }}/assets/img/logo-unipd-3.jpeg">
 </div>
 
+Venerdì 24 Gennaio 2020, ore 11, Aula 430
 
-Mercoledì 18 Dicembre 2019, ore 11, Aula 430  
-(Attenzione: non di lunedì e in un'aula diversa dal solito)
+**Gradient of the single layer potential and rectifiability**
 
-**A rectifiability result for sets of finite perimeter in Carnot groups**
-
-**_Sebastiano Don_** (University of Jyväskylä)
+**_Carmelo Puliatti_** (Universitat Autònoma de Barcelona, puliatti@mat.uab.cat)
 
 _Abstract:_
-After an introduction to the regularity problem for sets of finite perimeter in Carnot groups, we prove that the reduced boundary of a set of finite perimeter in a Carnot group can be covered by a countable union of sets satisfying a "cone property".  We show that this weak notion of rectifiability implies the intrinsic Lipschitz rectifiability in a class of Carnot groups including all filiform groups.
-This is a joint work with Enrico Le Donne, Terhi Moisala and Davide Vittone.
+An important theorem by Nazarov, Tolsa and Volberg asserts that a measure $$\mu$$ on $$\mathbb{R}^{n+1}$$ which has $$n$$-polynomial growth both from above and from below (also known as $$n$$-Ahlfors-David regular measure) and whose associated $$n$$-Riesz transform is bounded on $$L^2(\mu)$$ is $$n$$-uniformly rectifiable.
+
+In this talk I will discuss an analogous result for the operator
+
+$$
+T_\mu f(x)=\int \nabla_x \mathcal{E}_A(x,y)f(y)\,d\mu(y),
+$$
+
+where $$A$$ is an $$(n+1)\times(n+1)$$-uniformly elliptic matrix with  Hölder continuous coefficients and $$\mathcal{E}_A(\cdot,\cdot)$$ is the fundamental solution to the equation
+
+$$
+L_A u \equiv -\text{div}(A(\cdot)\nabla u)=0.
+$$
+
+This is a joint work with Laura Prat and Xavier Tolsa, and it is also motivated by an application to the study of elliptic measure.
+
+I will also present a recent closely related article which contains a quantitative rectifiability criterion for more general Radon measures in terms of $$T_\mu$$. This applies to a two-phase problem for the elliptic measure.
 
 ----
 ----
@@ -99,3 +112,13 @@ Although our initial motivation came from the study of the particular sub-Rieman
 
 ----
 
+Mercoledì 18 Dicembre 2019, ore 11, Aula 430  
+(Attenzione: non di lunedì e in un'aula diversa dal solito)
+
+**A rectifiability result for sets of finite perimeter in Carnot groups**
+
+**_Sebastiano Don_** (University of Jyväskylä)
+
+_Abstract:_
+After an introduction to the regularity problem for sets of finite perimeter in Carnot groups, we prove that the reduced boundary of a set of finite perimeter in a Carnot group can be covered by a countable union of sets satisfying a "cone property".  We show that this weak notion of rectifiability implies the intrinsic Lipschitz rectifiability in a class of Carnot groups including all filiform groups.
+This is a joint work with Enrico Le Donne, Terhi Moisala and Davide Vittone.
