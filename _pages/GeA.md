@@ -9,30 +9,17 @@ description: Semiario di Geometria e Analisi a Padova
     <img class="col three" src="{{ site.baseurl }}/assets/img/logo-unipd-3.jpeg">
 </div>
 
-Venerdì 24 Gennaio 2020, ore 11, Aula 430
+Martedì 10 Marzo 2020, ore 14:30, Aula 430
 
-**Gradient of the single layer potential and rectifiability**
+**Soft construction of Floer Homology**
 
-**_Carmelo Puliatti_** (Universitat Autònoma de Barcelona, puliatti@mat.uab.cat)
+**_Michele Stecconi_** (SISSA, Trieste)
 
 _Abstract:_
-An important theorem by Nazarov, Tolsa and Volberg asserts that a measure $$\mu$$ on $$\mathbb{R}^{n+1}$$ which has $$n$$-polynomial growth both from above and from below (also known as $$n$$-Ahlfors-David regular measure) and whose associated $$n$$-Riesz transform is bounded on $$L^2(\mu)$$ is $$n$$-uniformly rectifiable.
+Invented by Andreas Floer in 1988 to solve Arnold's conjecture, (symplectic) Floer Homology is a machinery to relate the existence of periodic trajectories of an Hamiltonian flow on a symplectic manifold M with the homology groups of M, analougously to Morse Homology. Indeed this is done by developing an infinite dimensional Morse theoretic framework adapted to a certain functional (the action functional) on the loop space of M, whose critical points are the periodic trajectories of the given hamiltonian flow. Despite the topological nature of the results, the construction is technically quite heavy, since involves elliptic systems of PDEs.
 
-In this talk I will discuss an analogous result for the operator
+Together with Andrei Agrachev and Antonio Lerario we are developing a method to construct such infinite dimensional homology invariants using only soft and essentially finite dimensional tools. In my talk I will present our approach. The main feature consists in approximating the loop space with finite dimensional submanifolds of increasing dimension, we do this with the language of control theory, and then interpret asymptotically the information provided by classical Morse theory.
 
-$$
-T_\mu f(x)=\int \nabla_x \mathcal{E}_A(x,y)f(y)\,d\mu(y),
-$$
-
-where $$A$$ is an $$(n+1)\times(n+1)$$-uniformly elliptic matrix with  Hölder continuous coefficients and $$\mathcal{E}_A(\cdot,\cdot)$$ is the fundamental solution to the equation
-
-$$
-L_A u \equiv -\text{div}(A(\cdot)\nabla u)=0.
-$$
-
-This is a joint work with Laura Prat and Xavier Tolsa, and it is also motivated by an application to the study of elliptic measure.
-
-I will also present a recent closely related article which contains a quantitative rectifiability criterion for more general Radon measures in terms of $$T_\mu$$. This applies to a two-phase problem for the elliptic measure.
 
 ----
 ----
@@ -122,3 +109,30 @@ Mercoledì 18 Dicembre 2019, ore 11, Aula 430
 _Abstract:_
 After an introduction to the regularity problem for sets of finite perimeter in Carnot groups, we prove that the reduced boundary of a set of finite perimeter in a Carnot group can be covered by a countable union of sets satisfying a "cone property".  We show that this weak notion of rectifiability implies the intrinsic Lipschitz rectifiability in a class of Carnot groups including all filiform groups.
 This is a joint work with Enrico Le Donne, Terhi Moisala and Davide Vittone.
+
+----
+
+Venerdì 24 Gennaio 2020, ore 11, Aula 430
+
+**Gradient of the single layer potential and rectifiability**
+
+**_Carmelo Puliatti_** (Universitat Autònoma de Barcelona, puliatti@mat.uab.cat)
+
+_Abstract:_
+An important theorem by Nazarov, Tolsa and Volberg asserts that a measure $$\mu$$ on $$\mathbb{R}^{n+1}$$ which has $$n$$-polynomial growth both from above and from below (also known as $$n$$-Ahlfors-David regular measure) and whose associated $$n$$-Riesz transform is bounded on $$L^2(\mu)$$ is $$n$$-uniformly rectifiable.
+
+In this talk I will discuss an analogous result for the operator
+
+$$
+T_\mu f(x)=\int \nabla_x \mathcal{E}_A(x,y)f(y)\,d\mu(y),
+$$
+
+where $$A$$ is an $$(n+1)\times(n+1)$$-uniformly elliptic matrix with  Hölder continuous coefficients and $$\mathcal{E}_A(\cdot,\cdot)$$ is the fundamental solution to the equation
+
+$$
+L_A u \equiv -\text{div}(A(\cdot)\nabla u)=0.
+$$
+
+This is a joint work with Laura Prat and Xavier Tolsa, and it is also motivated by an application to the study of elliptic measure.
+
+I will also present a recent closely related article which contains a quantitative rectifiability criterion for more general Radon measures in terms of $$T_\mu$$. This applies to a two-phase problem for the elliptic measure.
