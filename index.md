@@ -60,6 +60,12 @@ Publications
 
 ### Preprints
 
+<!-- -->
+* "Intrinsic rectifiability via flat cones in the Heisenberg group"  
+	(with A. Julia)  
+	[[arXiv](https://arxiv.org/abs/2003.09196)]
+	[[cvgmt](http://cvgmt.sns.it/paper/4617/)]
+<!-- -->
 *	"Metric Lie groups admitting dilations"  
 	(with E. Le Donne)  
 	[[arXiv](https://arxiv.org/abs/1901.02559/)]
@@ -80,10 +86,6 @@ Publications
 * "From homogeneous metric spaces to Lie groups"  
 	(with M. G. Cowling, V. Kivioja, E. Le Donne, A. Ottazzi )  
 	[[arXiv](https://arxiv.org/abs/1705.09648/)]
-<!-- -->
-* "Intrinsic rectifiability via flat cones in the Heisenberg group"
-	(with A. Julia)
-	[[arXiv](https://arxiv.org/abs/2003.09196)]
 
 
 ### Published papers
