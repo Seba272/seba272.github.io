@@ -25,11 +25,25 @@ I obtained a double PhD degree in 2017
 from the [University of Jyväskylä](http://www.jyu.fi/en/) (Finland, EU) and from the [University of Trento](http://www.unitn.it/en) (Italy, EU), 
 under the supervision of [Enrico Le Donne](https://sites.google.com/site/enricoledonne/) and [Francesco Serra Cassano](http://www4.unitn.it/People/it/Web/Persona/PER0004233#INFO).
 
-**Metric Geometry** and **Geometric Measure Theory**, together with  **Lie Group Theory**, are my main areas of research, with particular emphasis on problems that arise in **Geometric Group Theory**, **Analysis on Metric Spaces** or in **sub-Riemannian Geometry**.
+**Metric Geometry** and **Geometric Measure Theory**, together with  **Lie Group Theory**, are my main areas of research, with particular emphasis on problems that arise in 
+**sub-Riemannian Geometry**,
+**Analysis on Metric Spaces**
+or in **Harmonic Analysis**.
 
-Primarily, I study Lie groups equipped with non-Riemannian distances such as **Carnot-Carathéodory distances**. 
-Motivated by the asymptotic geometry of nilpotent groups, I work on **Carnot groups**. 
-In particular, I am interested in the regularity of submanifolds such as **metric spheres** and **minimal surfaces**.
+Primarily, I study Lie groups equipped with non-Riemannian distances such as Carnot-Carathéodory distances.
+Carnot-Carathéodory Geometry,
+ also called sub-Riemannian Geometry,
+deals with geometric spaces of fractal nature arising 
+from several contexts,
+such as Hyperbolic Geometry,
+Geometric Group Theory,
+Theory of Hypoelliptic Operators
+and Control Theory.
+
+In particular, I am interested in the regularity of minimal submanifolds,
+conditions for equivalence between CC distances
+and boundedness of certain operators.
+The recurrent theme is the geometry of Carnot groups, which appear in the asymptotic geometry of CC spaces, both at infinitesimal and at large scales.
 
 If you want to know more about me, here is my [CV](/assets/pdf/SebastianoNicolussiGolo-CurriculumVitae.pdf). 
 If you want to contact me, you can write me an email to <sebastiano.nicolussi@math.unipd.it>.
