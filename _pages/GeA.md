@@ -4,11 +4,11 @@ title: GeA
 permalink: /pages/GeA
 description: Semiario di Geometria e Analisi a Padova
 ---
- 
 <div class="col">
     <img class="col three" src="{{ site.baseurl }}/assets/img/logo-unipd-3.jpeg">
 </div>
 
+<!-- 
 Martedì 10 Marzo 2020, ore 14:30, Aula 430
 
 **Soft construction of Floer Homology**
@@ -19,7 +19,7 @@ _Abstract:_
 Invented by Andreas Floer in 1988 to solve Arnold's conjecture, (symplectic) Floer Homology is a machinery to relate the existence of periodic trajectories of an Hamiltonian flow on a symplectic manifold M with the homology groups of M, analougously to Morse Homology. Indeed this is done by developing an infinite dimensional Morse theoretic framework adapted to a certain functional (the action functional) on the loop space of M, whose critical points are the periodic trajectories of the given hamiltonian flow. Despite the topological nature of the results, the construction is technically quite heavy, since involves elliptic systems of PDEs.
 
 Together with Andrei Agrachev and Antonio Lerario we are developing a method to construct such infinite dimensional homology invariants using only soft and essentially finite dimensional tools. In my talk I will present our approach. The main feature consists in approximating the loop space with finite dimensional submanifolds of increasing dimension, we do this with the language of control theory, and then interpret asymptotically the information provided by classical Morse theory.
-
+-->
 
 ----
 ----
