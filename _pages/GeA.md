@@ -8,6 +8,9 @@ description: Semiario di Geometria e Analisi a Padova
     <img class="col three" src="{{ site.baseurl }}/assets/img/logo-unipd-3.jpeg">
 </div>
 
+
+_We suspended the talks for this semester because of the covid-19 pandemy._
+
 <!-- 
 Martedì 10 Marzo 2020, ore 14:30, Aula 430
 
@@ -21,7 +24,6 @@ Invented by Andreas Floer in 1988 to solve Arnold's conjecture, (symplectic) Flo
 Together with Andrei Agrachev and Antonio Lerario we are developing a method to construct such infinite dimensional homology invariants using only soft and essentially finite dimensional tools. In my talk I will present our approach. The main feature consists in approximating the loop space with finite dimensional submanifolds of increasing dimension, we do this with the language of control theory, and then interpret asymptotically the information provided by classical Morse theory.
 -->
 
-----
 ----
 
 ## Past Talks

@@ -41,17 +41,18 @@ Special Pages
 =============
 
 * [GeA](pages/GeA): seminario di Geometria e Analisi a Padova.
-*	Miniworkshop [Geometric Measure Theory in Padova](https://gmtpadova2020.frama.site).
-* [Didattica](https://www.math.unipd.it/~fabio/didattica/index_didattica.html):
-	"Analisi Matematica 1" per Ingegneria Meccanica, tenuto da Fabio Paronetto.
-* [Latest in Geometric Analysis. Celebration of Pekka Koskela's 59th birthday](https://www.impan.pl/en/activities/banach-center/conferences/19-latest): 
-	in Będlewo (Poland), 24.11.2019 - 30.11.2019
 * [Sub-Riemannian Geometry and Beyond, III](https://sites.google.com/view/pisa2020):
 	A gist on Lie groups in Pisa.  
-	Introductory courses: 19 May 2020 - 23 May 2020; 
+	_(Postponed because of Covid-19 pandemy)_  
+	Introductory courses: ~~19 May 2020 - 23 May 2020~~; 
 	[http://crm.sns.it/event/462/](http://crm.sns.it/event/462/)  
-	The conference: 25 May 2020 - 29 May 2020;
+	The conference: ~~25 May 2020 - 29 May 2020~~;
 	[http://crm.sns.it/event/452/](http://crm.sns.it/event/452/)  
+*	Miniworkshop [Geometric Measure Theory in Padova](https://gmtpadova2020.frama.site).
+* [Latest in Geometric Analysis. Celebration of Pekka Koskela's 59th birthday](https://www.impan.pl/en/activities/banach-center/conferences/19-latest): 
+	in Będlewo (Poland), 24.11.2019 - 30.11.2019
+* [Didattica](https://www.math.unipd.it/~fabio/didattica/index_didattica.html):
+	"Analisi Matematica 1" per Ingegneria Meccanica, tenuto da Fabio Paronetto.
 
 ---
 
