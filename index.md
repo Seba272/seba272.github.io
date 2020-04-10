@@ -59,11 +59,15 @@ Publications
 ============
 
 ### Preprints
-
+<!-- -->
+* "Area of intrinsic graphs and coarea formula in Carnot Groups"  
+	(with A.~Julia and D.~Vittone)  
+	[[arXiv](https://arxiv.org/abs/2004.02520/)]
+	[[cvgmt](http://cvgmt.sns.it/paper/4635/)]
 <!-- -->
 * "Intrinsic rectifiability via flat cones in the Heisenberg group"  
 	(with A. Julia)  
-	[[arXiv](https://arxiv.org/abs/2003.09196)]
+	[[arXiv](https://arxiv.org/abs/2003.09196/)]
 	[[cvgmt](http://cvgmt.sns.it/paper/4617/)]
 <!-- -->
 *	"Metric Lie groups admitting dilations"  
