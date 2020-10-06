@@ -6,32 +6,32 @@ title: <strong>Sebastiano</strong> Nicolussi Golo
 profile:
   align: right
   image: seba-1.jpg
-  address: >
-    <p>Dipartimento di Matematica</p>
-    <p>Università di Padova</p>
-    <p>Via Trieste, 63</p>
-    <p>35121 Padova, Italy</p>
+  address: 
+		<p>P.O. Box 35 (MaD)</p>
+		<p>University of Jyväskylä</p>
+		<p>FI-40014, Finland</p>
+
 ---
 <!--
 [Test Page](test)
 -->
 
-I am a research fellow (postdoc) 
-at the [Department of Mathematics](https://www.math.unipd.it/en/) 
-of the [University of Padova](https://www.unipd.it/) 
-in Italy (EU), under the supervision of 
-[Davide Vittone](https://www.math.unipd.it/en/department/people/user.php?usertype=2&user=364). 
-I obtained a double PhD degree in 2017
-from the [University of Jyväskylä](http://www.jyu.fi/en/) (Finland, EU) and from the [University of Trento](http://www.unitn.it/en) (Italy, EU), 
-under the supervision of [Enrico Le Donne](https://sites.google.com/site/enricoledonne/) and [Francesco Serra Cassano](http://www4.unitn.it/People/it/Web/Persona/PER0004233#INFO).
+I am a postdoc
+at the [Department of Mathematics and Statistics](https://www.jyu.fi/science/en/maths)
+of the [University of Jyväskylä](https://www.jyu.fi/en/)
+in Finland (EU), under the supervision of
+[Katrin Fässler](https://kfaessler.wixsite.com/math/).
 
-**Metric Geometry** and **Geometric Measure Theory**, together with  **Lie Group Theory**, are my main areas of research, with particular emphasis on problems that arise in 
+**Metric Geometry** and **Geometric Measure Theory**, 
+together with  **Lie Group Theory**, 
+are my main areas of research,
+ with particular emphasis on problems that arise in 
 **sub-Riemannian Geometry**,
 **Analysis on Metric Spaces**
-or in **Harmonic Analysis**.
+and in **Harmonic Analysis**.
 
 Primarily, I study Lie groups equipped with non-Riemannian distances such as Carnot-Carathéodory distances.
-Carnot-Carathéodory Geometry,
+**Carnot-Carathéodory Geometry**,
  also called sub-Riemannian Geometry,
 deals with geometric spaces of fractal nature arising 
 from several contexts,
@@ -43,10 +43,23 @@ and Control Theory.
 In particular, I am interested in the regularity of minimal submanifolds,
 conditions for equivalence between CC distances
 and boundedness of certain operators.
-The recurrent theme is the geometry of Carnot groups, which appear in the asymptotic geometry of CC spaces, both at infinitesimal and at large scales.
+The recurrent theme is the geometry of Carnot groups, 
+which appear in the asymptotic geometry of CC spaces, 
+both at infinitesimal and at large scales.
+
+I obtained a double PhD degree in 2017
+from the [University of Jyväskylä](http://www.jyu.fi/en/) (Finland, EU) 
+and from the [University of Trento](http://www.unitn.it/en) (Italy, EU), 
+under the supervision of [Enrico Le Donne](https://sites.google.com/site/enricoledonne/) 
+and [Francesco Serra Cassano](http://www4.unitn.it/People/it/Web/Persona/PER0004233#INFO).
+I later worked in Birmingham (UK) with 
+[Alessio Martini](https://sites.google.com/site/mrtnale/) for one year,
+and in Padova (IT,EU) with 
+[Davide Vittone](https://www.math.unipd.it/en/department/people/user.php?usertype=2&user=364)
+for one year and a half  
 
 If you want to know more about me, here is my [CV](/assets/pdf/SebastianoNicolussiGolo-CurriculumVitae.pdf). 
-If you want to contact me, you can write me an email to <sebastiano.nicolussi@math.unipd.it>.
+If you want to contact me, you can write me an email to <sebastiano.s.nicolussi-golo@jyu.fi>.
 My ORCID ID is: [0000-0002-3773-6471](http://orcid.org/0000-0002-3773-6471).
 
 ----
@@ -75,8 +88,16 @@ Publications
 
 ### Preprints
 <!-- -->
+* "Sub-Finsler horofunction boundaries of the Heisenberg group"  
+	(with N. Fisher),  
+	[[arXiv]](http://arxiv.org/abs/2009.06820)
+<!-- -->
+* "Area-minimizing cones in the Heisenberg group $$\mathbb{H}^1$$"  
+	(with M. Ritoré)  
+	[[arXiv]](https://arxiv.org/abs/2008.04027)
+<!-- -->
 * "Area of intrinsic graphs and coarea formula in Carnot Groups"  
-	(with A.~Julia and D.~Vittone)  
+	(with A. Julia and D. Vittone)  
 	[[arXiv](https://arxiv.org/abs/2004.02520/)]
 	[[cvgmt](http://cvgmt.sns.it/paper/4635/)]
 <!-- -->
@@ -84,11 +105,6 @@ Publications
 	(with A. Julia)  
 	[[arXiv](https://arxiv.org/abs/2003.09196/)]
 	[[cvgmt](http://cvgmt.sns.it/paper/4617/)]
-<!-- -->
-*	"Metric Lie groups admitting dilations"  
-	(with E. Le Donne)  
-	[[arXiv](https://arxiv.org/abs/1901.02559/)]
-	[[cvgmt](http://cvgmt.sns.it/paper/4185/)]
 <!-- -->
 * "Polarised Lie groups contactomorphic to stratified groups"  
 	(with A. Ottazzi)  
@@ -108,29 +124,35 @@ Publications
 
 
 ### Published papers
-
+<!-- -->
+0. "Metric Lie groups admitting dilations"  
+	(with E. Le Donne)  
+	Accepted in _Arkiv för Matematik_  (2020)  
+	[[arXiv](https://arxiv.org/abs/1901.02559/)]
+	[[cvgmt](http://cvgmt.sns.it/paper/4185/)]
+<!-- -->
 0. "The Bernstein problem for Lipschitz intrinsic graphs in the Heisenberg group"  
 	(with F. Serra Cassano)  
-	_Calculus of Variations and Partial Differential Equations_ **58**  141  (2019)  
+	_Calculus of Variations and Partial Differential Equations_, 58,  141  (2019)  
 	[[Paper](https://doi.org/10.1007/s00526-019-1581-5)]
 	[[arXiv](https://arxiv.org/abs/1809.04586/)]
 	[[cvgmt](http://cvgmt.sns.it/paper/4042/)]
 <!-- -->
 0. "The Besicovitch covering property in the Heisenberg group revisited"   
 	(with S. Rigot)  
-	_The Journal of Geometric Analysis_ 2018  
+	_The Journal of Geometric Analysis_ 29, 3345--3383 (2019)  
 	[[Paper](https://link.springer.com/article/10.1007%2Fs12220-018-00112-z)]
 	[[arXiv](https://arxiv.org/abs/1803.04502)]
 <!-- -->
 0. "Some remarks on contact variations in the first Heisenberg group"  
-	_Ann. Acad. Sci. Fenn. Math._ 2018  
+	_Ann. Acad. Sci. Fenn. Math._ 43, 311--335 (2018)  
 	[[Paper](http://www.acadsci.fi/mathematica/Vol43/Golo.html)]
 	[[arXiv](https://arxiv.org/abs/1611.07358)]
 	[[cvgmt](http://cvgmt.sns.it/paper/2928/)]
 <!-- -->
 0. "Regularity properties of spheres in homogeneous groups"  
 	(with E. Le Donne)  
-	_Trans. Amer. Math. Soc._ 2018  
+	_Trans. Amer. Math. Soc._, 370, 2057-2084 (2018).  
 	[[Paper](http://www.ams.org/journals/tran/2018-370-03/S0002-9947-2017-07038-0/)]
 	[[arXiv](https://arxiv.org/abs/1509.03881)]
 	[[cvgmt](http://cvgmt.sns.it/paper/2794/)]
@@ -141,7 +163,7 @@ Publications
 <!-- -->
 0. "Asymptotic behavior of the Riemannian Heisenberg group and its horoboundary"  
 	(with E. Le Donne, A. Sambusetti)  
-	_Ann. Mat. Pura Appl. (4)_ 2017  
+	_Ann. Mat. Pura Appl._ Volume 196, Issue 4, pp 1251--1272 (2017)  
 	[[Paper](https://link.springer.com/article/10.1007%2Fs10231-016-0615-2)]
 	[[arXiv](https://arxiv.org/abs/1509.00288)]
 	[[cvgmt](http://cvgmt.sns.it/paper/2793/)]
@@ -179,6 +201,7 @@ Collaborators
 Francesco Bigolin  
 [Michael G. Cowling](https://web.maths.unsw.edu.au/~michaelc/)  
 [Moon Duchin](https://mduchin.math.tufts.edu/)  
+Nate Fisher  
 Chang-Yu Guo  
 Ville Kivioja  
 [Enrico Le Donne](https://sites.google.com/site/enricoledonne/)  
