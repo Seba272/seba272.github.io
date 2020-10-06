@@ -6,11 +6,10 @@ title: <strong>Sebastiano</strong> Nicolussi Golo
 profile:
   align: right
   image: seba-1.jpg
-  address: 
-		<p>P.O. Box 35 (MaD)</p>
-		<p>University of Jyväskylä</p>
-		<p>FI-40014, Finland</p>
-
+  address: >
+    <p>P.O. Box 35 (MaD)</p>
+    <p>University of Jyväskylä</p>
+    <p>FI-40014 Finland</p>
 ---
 <!--
 [Test Page](test)
