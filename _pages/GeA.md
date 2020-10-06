@@ -2,14 +2,14 @@
 layout: page
 title: GeA
 permalink: /pages/GeA
-description: Semiario di Geometria e Analisi a Padova
+description: Semiario di Geometria e Analisi a Padova (2019-2020)
 ---
 <div class="col">
     <img class="col three" src="{{ site.baseurl }}/assets/img/logo-unipd-3.jpeg">
 </div>
 
 
-_We suspended the talks for this semester because of the covid-19 pandemy._
+_After the outbreak of the covid-19 pandemy, the seminar was suspended for the spring semester 2020. Later, Sebastiano was not in Padova anymore._
 
 <!-- 
 Martedì 10 Marzo 2020, ore 14:30, Aula 430
