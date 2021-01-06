@@ -264,6 +264,7 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-email-protect
+  nokogiri (>= 1.11.0.rc4)
   unicode_utils
 
 BUNDLED WITH

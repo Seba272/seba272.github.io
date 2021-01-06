@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+gem "nokogiri", ">= 1.11.0.rc4"
 group :jekyll_plugins do
     gem 'github-pages'
     gem 'jekyll'
