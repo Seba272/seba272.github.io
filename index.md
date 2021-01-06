@@ -66,6 +66,7 @@ My ORCID ID is: [0000-0002-3773-6471](http://orcid.org/0000-0002-3773-6471).
 Special Pages
 =============
 
+* [Lettura della sera](pages/lettura-della-sera)
 * [GeA](pages/GeA): seminario di Geometria e Analisi a Padova.
 * [Sub-Riemannian Geometry and Beyond, III](https://sites.google.com/view/pisa2020):
 	A gist on Lie groups in Pisa.  
