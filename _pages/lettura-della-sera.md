@@ -9,7 +9,7 @@ description: Incontri serali di lettura
 È bello avere dei pensieri, scambiarseli.
 È bello, dopo aver fatto il proprio lavoro, potersi ritirare con un amico a meditare sulla vita.
 È importante, perché la vita si consuma in pochissimo tempo...
-> <div style="text-align: right"> (Fausto Taiten Guareschi) </div>
+> <div style="text-align: right"> Fausto Taiten Guareschi </div>
 
 Ogni sera, dalle 20:30 alle 21:10 circa, ora di Roma, apro una stanza Zoom 
 in cui leggiamo e commentiamo un testo.
@@ -21,7 +21,6 @@ con la parola chiave
 7ka8y6.
 Per maggiori informazioni, scrivimi a "lettura@sebang.fastmail.fm".
 
-----
 ### Diario
 
 Ogni due settimane, il lunedì, scegliamo insieme un nuovo testo.
