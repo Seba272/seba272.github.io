@@ -11,7 +11,10 @@ description: Incontri serali di lettura
 È importante, perché la vita si consuma in pochissimo tempo...
 > <div style="text-align: right"> Fausto Taiten Guareschi </div>
 
-Ogni sera, dalle 20:30 alle 21:10 circa, ora di Roma, apro una stanza Zoom 
+Ogni sera, 
+dal lunedì al venerdì, 
+dalle 20:30 alle 21:10 circa, ora di Roma, 
+apro una stanza Zoom 
 in cui leggiamo e commentiamo un testo.
 Tutti sono benvenuti: 
 se desideri collegarti con noi, 
