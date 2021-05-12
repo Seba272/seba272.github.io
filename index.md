@@ -88,6 +88,14 @@ Publications
 
 ### Preprints
 <!-- -->
+* "Metric equivalences of Heintze groups and applications to classifications in low dimension"  
+	(with V. Kivioja and E. Le Donne)  
+	[[arXiv]](https://arxiv.org/abs/2104.00368)
+<!-- -->
+* "Nowhere differentiable intrinsic Lipschitz graphs"  
+	(with A. Julia and D. Vittone)  
+	[[arXiv]](https://arxiv.org/abs/2101.02985)
+<!-- -->
 * "Sub-Finsler horofunction boundaries of the Heisenberg group"  
 	(with N. Fisher),  
 	[[arXiv]](http://arxiv.org/abs/2009.06820)
