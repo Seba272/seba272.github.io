@@ -90,29 +90,12 @@ Publications
 <!-- -->
 * "Metric equivalences of Heintze groups and applications to classifications in low dimension"  
 	(with V. Kivioja and E. Le Donne)  
-	[[arXiv]](https://arxiv.org/abs/2104.00368)
-<!-- -->
-* "Nowhere differentiable intrinsic Lipschitz graphs"  
-	(with A. Julia and D. Vittone)  
-	[[arXiv]](https://arxiv.org/abs/2101.02985)
-<!-- -->
-* "Sub-Finsler horofunction boundaries of the Heisenberg group"  
-	(with N. Fisher),  
-	[[arXiv]](http://arxiv.org/abs/2009.06820)
-<!-- -->
-* "Area-minimizing cones in the Heisenberg group $$\mathbb{H}^1$$"  
-	(with M. Ritoré)  
-	[[arXiv]](https://arxiv.org/abs/2008.04027)
+	[[arXiv](https://arxiv.org/abs/2104.00368)]
 <!-- -->
 * "Area of intrinsic graphs and coarea formula in Carnot Groups"  
 	(with A. Julia and D. Vittone)  
 	[[arXiv](https://arxiv.org/abs/2004.02520/)]
 	[[cvgmt](http://cvgmt.sns.it/paper/4635/)]
-<!-- -->
-* "Intrinsic rectifiability via flat cones in the Heisenberg group"  
-	(with A. Julia)  
-	[[arXiv](https://arxiv.org/abs/2003.09196/)]
-	[[cvgmt](http://cvgmt.sns.it/paper/4617/)]
 <!-- -->
 * "Polarised Lie groups contactomorphic to stratified groups"  
 	(with A. Ottazzi)  
@@ -133,9 +116,32 @@ Publications
 
 ### Published papers
 <!-- -->
+0. "Nowhere differentiable intrinsic Lipschitz graphs"  
+	(with A. Julia and D. Vittone)  
+	Accepted in _Bulletin of the London Mathematical Society_ (2021)  
+	[[arXiv](https://arxiv.org/abs/2101.02985)]
+<!-- -->
+0. "Intrinsic rectifiability via flat cones in the Heisenberg group"  
+	(with A. Julia)  
+	Accepted in _Annali della Scuola Normale Superiore di Pisa, Classe di Scienze_ (2021)  
+	[[arXiv](https://arxiv.org/abs/2003.09196/)]
+	[[cvgmt](http://cvgmt.sns.it/paper/4617/)]
+<!-- -->
+0. "Sub-Finsler horofunction boundaries of the Heisenberg group"  
+	(with N. Fisher)  
+	_Analysis and Geometry in Metric Spaces_, Volume 9, Issue 1 (2021)  
+	[[Paper](https://doi.org/10.1515/agms-2020-0121)]
+	[[arXiv](http://arxiv.org/abs/2009.06820)]
+<!-- -->
+0. "Area-minimizing cones in the Heisenberg group $$\mathbb{H}^1$$"  
+	(with M. Ritoré)  
+	Accepted in _Annales Academiæ Scientiarum Fennicæ_ (2021)  
+	[[arXiv](https://arxiv.org/abs/2008.04027)]
+<!-- -->
 0. "Metric Lie groups admitting dilations"  
 	(with E. Le Donne)  
-	Accepted in _Arkiv för Matematik_  (2020)  
+	_Arkiv för Matematik_, Volume 59, Number 1 (2021)  
+	[[Paper]](https://dx.doi.org/10.4310/ARKIV.2021.v59.n1.a5)
 	[[arXiv](https://arxiv.org/abs/1901.02559/)]
 	[[cvgmt](http://cvgmt.sns.it/paper/4185/)]
 <!-- -->
@@ -148,12 +154,12 @@ Publications
 <!-- -->
 0. "The Besicovitch covering property in the Heisenberg group revisited"   
 	(with S. Rigot)  
-	_The Journal of Geometric Analysis_ 29, 3345--3383 (2019)  
+	_The Journal of Geometric Analysis_, 29, 3345--3383 (2019)  
 	[[Paper](https://link.springer.com/article/10.1007%2Fs12220-018-00112-z)]
 	[[arXiv](https://arxiv.org/abs/1803.04502)]
 <!-- -->
 0. "Some remarks on contact variations in the first Heisenberg group"  
-	_Ann. Acad. Sci. Fenn. Math._ 43, 311--335 (2018)  
+	_Ann. Acad. Sci. Fenn. Math._, 43, 311--335 (2018)  
 	[[Paper](http://www.acadsci.fi/mathematica/Vol43/Golo.html)]
 	[[arXiv](https://arxiv.org/abs/1611.07358)]
 	[[cvgmt](http://cvgmt.sns.it/paper/2928/)]
@@ -171,7 +177,7 @@ Publications
 <!-- -->
 0. "Asymptotic behavior of the Riemannian Heisenberg group and its horoboundary"  
 	(with E. Le Donne, A. Sambusetti)  
-	_Ann. Mat. Pura Appl._ Volume 196, Issue 4, pp 1251--1272 (2017)  
+	_Ann. Mat. Pura Appl._, Volume 196, Issue 4, pp 1251--1272 (2017)  
 	[[Paper](https://link.springer.com/article/10.1007%2Fs10231-016-0615-2)]
 	[[arXiv](https://arxiv.org/abs/1509.00288)]
 	[[cvgmt](http://cvgmt.sns.it/paper/2793/)]
