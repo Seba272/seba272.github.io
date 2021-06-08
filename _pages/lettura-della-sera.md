@@ -11,6 +11,7 @@ description: Incontri serali di lettura
 È importante, perché la vita si consuma in pochissimo tempo...
 > <div style="text-align: right"> Rev. F. Taiten Guareschi </div>
 
+<!--
 Ogni sera, 
 dal lunedì al venerdì, 
 dalle 20:30 alle 21:10 circa, ora di Roma, 
@@ -22,13 +23,18 @@ ci trovi al numero Zoom
 954 632 1701
 con la parola chiave 
 7ka8y6.
+-->
+Le letture si sono interrotte, per lasciare spazio all'estate e a nuove esperienze.
+Gli
+[Assaggi di Riflessione](https://officinadelloyoga.it/assaggi-di-riflessione/)
+della domenica
+proseguono con entusiasmo.
 Per maggiori informazioni, scrivimi a "lettura@sebang.fastmail.fm".
 
 ### Diario
 
-Ogni due settimane, il lunedì, scegliamo insieme un nuovo testo.
-La domenica, la lettura della sera si trasforma in
-[Assaggi di Riflessione](https://officinadelloyoga.it/assaggi-di-riflessione/).
+* 1 Giugno 2021:
+	Ci interrompiamo, in cerca di nuove strade.
 
 * 10 Maggio 2021:
 	_Il Vangelo secondo Giovanni_
