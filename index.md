@@ -88,6 +88,10 @@ Publications
 
 ### Preprints
 <!-- -->
+* "Lipschitz functions on submanifolds in Heisenberg groups"  
+	(with A. Julia and D.Vittone)  
+	[[arXiv](https://arxiv.org/abs/2107.00515)]
+<!-- -->
 * "Metric equivalences of Heintze groups and applications to classifications in low dimension"  
 	(with V. Kivioja and E. Le Donne)  
 	[[arXiv](https://arxiv.org/abs/2104.00368)]
