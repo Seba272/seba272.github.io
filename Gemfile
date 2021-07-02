@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem "nokogiri", ">= 1.11.0.rc4"
+gem "nokogiri", ">= 1.11.4"
 gem "kramdown", ">= 2.3.1"
 group :jekyll_plugins do
     gem 'github-pages'
