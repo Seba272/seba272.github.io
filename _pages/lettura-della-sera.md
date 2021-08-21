@@ -25,10 +25,12 @@ con la parola chiave
 7ka8y6.
 -->
 Le letture si sono interrotte, per lasciare spazio all'estate e a nuove esperienze.
+<!--
 Gli
 [Assaggi di Riflessione](https://officinadelloyoga.it/assaggi-di-riflessione/)
 della domenica
 proseguono con entusiasmo.
+-->
 Per maggiori informazioni, scrivimi a "lettura@sebang.fastmail.fm".
 
 ### Diario
