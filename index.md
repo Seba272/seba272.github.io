@@ -105,10 +105,6 @@ Publications
 	(with A. Ottazzi)  
 	[[arXiv](https://arxiv.org/abs/1807.03854/)]
 <!-- -->
-* "Spectral multipliers and wave equation for sub-Laplacians: lower bounds of Euclidean type"  
-	(with A. Martini, D. Müller)  
-	[[arXiv](https://arxiv.org/abs/1812.02671/)]
-<!-- -->
 * "Quasiregular mappings between subRiemannian manifolds"  
 	(with C.-Y. Guo, M. Williams)  
 	[[arXiv](https://arxiv.org/abs/1505.00891/)]
@@ -119,6 +115,11 @@ Publications
 
 
 ### Published papers
+<!-- -->
+0. "Spectral multipliers and wave equation for sub-Laplacians: lower bounds of Euclidean type"  
+	(with A. Martini, D. Müller)  
+	Accepted in _Journal of the European Mathematical Society_ (2021)  
+	[[arXiv](https://arxiv.org/abs/1812.02671/)]
 <!-- -->
 0. "Nowhere differentiable intrinsic Lipschitz graphs"  
 	(with A. Julia and D. Vittone)  
@@ -139,8 +140,9 @@ Publications
 <!-- -->
 0. "Area-minimizing cones in the Heisenberg group $$\mathbb{H}^1$$"  
 	(with M. Ritoré)  
-	Accepted in _Annales Academiæ Scientiarum Fennicæ_ (2021)  
+	_Annales Academiæ Scientiarum Fennicæ_, Vol. 46 No. 2 (2021)  
 	[[arXiv](https://arxiv.org/abs/2008.04027)]
+	[[Paper](https://afm.journal.fi/article/view/110904)]
 <!-- -->
 0. "Metric Lie groups admitting dilations"  
 	(with E. Le Donne)  
