@@ -129,6 +129,7 @@ Publications
 0. "Intrinsic rectifiability via flat cones in the Heisenberg group"  
 	(with A. Julia)  
 	Accepted in _Annali della Scuola Normale Superiore di Pisa, Classe di Scienze_ (2021)  
+	[[Paper](https://doi.org/10.2422/2036-2145.202005_012)]  
 	[[arXiv](https://arxiv.org/abs/2003.09196/)]
 	[[cvgmt](http://cvgmt.sns.it/paper/4617/)]
 <!-- -->
@@ -141,8 +142,8 @@ Publications
 0. "Area-minimizing cones in the Heisenberg group $$\mathbb{H}^1$$"  
 	(with M. Ritoré)  
 	_Annales Academiæ Scientiarum Fennicæ_, Vol. 46 No. 2 (2021)  
-	[[arXiv](https://arxiv.org/abs/2008.04027)]
 	[[Paper](https://afm.journal.fi/article/view/110904)]
+	[[arXiv](https://arxiv.org/abs/2008.04027)]
 <!-- -->
 0. "Metric Lie groups admitting dilations"  
 	(with E. Le Donne)  
