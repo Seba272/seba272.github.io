@@ -88,10 +88,6 @@ Publications
 
 ### Preprints
 <!-- -->
-* "Lipschitz functions on submanifolds in Heisenberg groups"  
-	(with A. Julia and D.Vittone)  
-	[[arXiv](https://arxiv.org/abs/2107.00515)]
-<!-- -->
 * "Metric equivalences of Heintze groups and applications to classifications in low dimension"  
 	(with V. Kivioja and E. Le Donne)  
 	[[arXiv](https://arxiv.org/abs/2104.00368)]
@@ -115,6 +111,12 @@ Publications
 
 
 ### Published papers
+<!-- -->
+* "Lipschitz functions on submanifolds in Heisenberg groups"  
+	(with A. Julia and D.Vittone)  
+	Accepted in _Bulletin of the London Mathematical Society_ (2021)  
+	[[arXiv](https://arxiv.org/abs/2107.00515)]  
+	[[Paper](http://doi.org/10.1112/blms.12540)]
 <!-- -->
 0. "Spectral multipliers and wave equation for sub-Laplacians: lower bounds of Euclidean type"  
 	(with A. Martini, D. Müller)  
