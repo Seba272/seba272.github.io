@@ -87,15 +87,18 @@ Publications
 ============
 
 ### Preprints
+
+* "Jet spaces on Carnot groups"  
+	(with B. Warhurst)  
+	[[arXiv](http://arxiv.org/abs/2201.04534)]
 <!-- -->
-* "Metric equivalences of Heintze groups and applications to classifications in low dimension"  
-	(with V. Kivioja and E. Le Donne)  
-	[[arXiv](https://arxiv.org/abs/2104.00368)]
+* "Nilpotent groups and biLipschitz embeddings into L1"  
+	(with S. Eriksson-Bique, C. Gartland, E. Le Donne, L. Naples)  
+	[[arXiv](https://arxiv.org/abs/2112.11402)]
 <!-- -->
-* "Area of intrinsic graphs and coarea formula in Carnot Groups"  
-	(with A. Julia and D. Vittone)  
-	[[arXiv](https://arxiv.org/abs/2004.02520/)]
-	[[cvgmt](http://cvgmt.sns.it/paper/4635/)]
+* "Lipschitz Carnot-Carathéodory structures and their limits"  
+	(with G. Antonelli and E. Le Donne)  
+	[[arXiv](https://arxiv.org/abs/2111.06789)]
 <!-- -->
 * "Polarised Lie groups contactomorphic to stratified groups"  
 	(with A. Ottazzi)  
@@ -112,26 +115,39 @@ Publications
 
 ### Published papers
 <!-- -->
-* "Lipschitz functions on submanifolds in Heisenberg groups"  
+0. "Lipschitz functions on submanifolds in Heisenberg groups"  
 	(with A. Julia and D.Vittone)  
 	Accepted in _Bulletin of the London Mathematical Society_ (2021)  
-	[[arXiv](https://arxiv.org/abs/2107.00515)]  
 	[[Paper](http://doi.org/10.1112/blms.12540)]
+	[[arXiv](https://arxiv.org/abs/2107.00515)]  
+<!-- -->
+0. "Metric equivalences of Heintze groups and applications to classifications in low dimension"  
+	(with V. Kivioja and E. Le Donne)  
+	[[Paper]()]
+	[[arXiv](https://arxiv.org/abs/2104.00368)]
+<!-- -->
+0. "Area of intrinsic graphs and coarea formula in Carnot Groups"  
+	(with A. Julia and D. Vittone)  
+	[[Paper]()] 
+	[[arXiv](https://arxiv.org/abs/2004.02520/)] 
+	[[cvgmt](http://cvgmt.sns.it/paper/4635/)]
 <!-- -->
 0. "Spectral multipliers and wave equation for sub-Laplacians: lower bounds of Euclidean type"  
 	(with A. Martini, D. Müller)  
 	Accepted in _Journal of the European Mathematical Society_ (2021)  
+	[[Paper](http://doi.org/10.4171/JEMS/1191)]
 	[[arXiv](https://arxiv.org/abs/1812.02671/)]
 <!-- -->
 0. "Nowhere differentiable intrinsic Lipschitz graphs"  
 	(with A. Julia and D. Vittone)  
 	Accepted in _Bulletin of the London Mathematical Society_ (2021)  
+	[[Paper](http://doi.org/10.1112/blms.12540)]
 	[[arXiv](https://arxiv.org/abs/2101.02985)]
 <!-- -->
 0. "Intrinsic rectifiability via flat cones in the Heisenberg group"  
 	(with A. Julia)  
 	Accepted in _Annali della Scuola Normale Superiore di Pisa, Classe di Scienze_ (2021)  
-	[[Paper](https://doi.org/10.2422/2036-2145.202005_012)]  
+	[[Paper](https://doi.org/10.2422/2036-2145.202005_012)] 
 	[[arXiv](https://arxiv.org/abs/2003.09196/)]
 	[[cvgmt](http://cvgmt.sns.it/paper/4617/)]
 <!-- -->
