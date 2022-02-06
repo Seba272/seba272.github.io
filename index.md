@@ -66,6 +66,10 @@ My ORCID ID is: [0000-0002-3773-6471](http://orcid.org/0000-0002-3773-6471).
 Special Pages
 =============
 
+* [Interactions between Geometric measure theory, Singular integrals, and PDE](https://www.him.uni-bonn.de/programs/current-trimester-program/interactions-geometric-singular-pde/description/)  
+	Trimester Program (January 10 – April 22, 2022), 
+	Bonn
+* [Jyväskylä Geometric Analysis Seminar](https://kfaessler.wixsite.com/math/jyväskylä-geometry-seminar)
 * [Lettura della sera](pages/lettura-della-sera)
 * [GeA](pages/GeA): seminario di Geometria e Analisi a Padova.
 * [Sub-Riemannian Geometry and Beyond, III](https://sites.google.com/view/pisa2020):
