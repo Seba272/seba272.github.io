@@ -53,9 +53,9 @@ under the supervision of [Enrico Le Donne](https://sites.google.com/site/enricol
 and [Francesco Serra Cassano](http://www4.unitn.it/People/it/Web/Persona/PER0004233#INFO).
 I later worked in Birmingham (UK) with 
 [Alessio Martini](https://sites.google.com/site/mrtnale/) for one year,
-and in Padova (IT,EU) with 
+and in Padova (IT, EU) with 
 [Davide Vittone](https://www.math.unipd.it/en/department/people/user.php?usertype=2&user=364)
-for one year and a half  
+for one year and a half. 
 
 If you want to know more about me, here is my [CV](/assets/pdf/SebastianoNicolussiGolo-CurriculumVitae.pdf). 
 If you want to contact me, you can write me an email to <sebastiano.s.nicolussi-golo@jyu.fi>.
