@@ -122,17 +122,17 @@ Publications
 0. "Lipschitz functions on submanifolds in Heisenberg groups"  
 	(with A. Julia and D.Vittone)  
 	Accepted in _Bulletin of the London Mathematical Society_ (2021)  
-	[[Paper](http://doi.org/10.1112/blms.12540)]
+<!--	[[Paper]()] -->
 	[[arXiv](https://arxiv.org/abs/2107.00515)]  
 <!-- -->
 0. "Metric equivalences of Heintze groups and applications to classifications in low dimension"  
 	(with V. Kivioja and E. Le Donne)  
-	[[Paper]()]
+<!--	[[Paper]()] -->
 	[[arXiv](https://arxiv.org/abs/2104.00368)]
 <!-- -->
 0. "Area of intrinsic graphs and coarea formula in Carnot Groups"  
 	(with A. Julia and D. Vittone)  
-	[[Paper]()] 
+<!--	[[Paper]()] -->
 	[[arXiv](https://arxiv.org/abs/2004.02520/)] 
 	[[cvgmt](http://cvgmt.sns.it/paper/4635/)]
 <!-- -->
