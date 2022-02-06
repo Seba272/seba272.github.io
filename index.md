@@ -220,8 +220,8 @@ Publications
 
 ---
 
-Collaborators
-=============
+Collaborators and Friends
+=========================
 <!--
 - Francesco Bigolin
 - [Michael G. Cowling](https://web.maths.unsw.edu.au/~michaelc/)
@@ -243,19 +243,23 @@ Collaborators
 
 Francesco Bigolin  
 [Michael G. Cowling](https://web.maths.unsw.edu.au/~michaelc/)  
+[Damian Dąbrowski](https://www.damiandabrowski.eu)  
 [Moon Duchin](https://mduchin.math.tufts.edu/)  
 Nate Fisher  
+[Katrin Fässler](https://kfaessler.wixsite.com/math)  
 Chang-Yu Guo  
 Ville Kivioja  
-[Enrico Le Donne](https://sites.google.com/site/enricoledonne/)  
+[Enrico Le Donne](https://sites.google.com/view/enricoledonne/)  
 [Alessio Martini](https://sites.google.com/site/mrtnale/)  
 [Detlef Müller](http://www.math.uni-kiel.de/analysis/de/mueller/prof.-dr.-detlef-mueller)  
+[Tuomas Orponen](https://sites.google.com/view/tuomaths/)  
 [Alessandro Ottazzi](https://sites.google.com/site/alessandroottazzi/)  
 [Séverine Rigot](https://math.unice.fr/~rigot/)  
 [Manuel Ritoré](http://www.ugr.es/~ritore/)  
 [Andrea Sambusetti](http://www1.mat.uniroma1.it/people/sambusetti/andreas_webpage/home.html)  
 [Raul Serapioni](http://www.science.unitn.it/~serapion/)  
 [Francesco Serra Cassano](https://webapps.unitn.it/du/it/Persona/PER0004233/Curriculum#INFO)  
+[Michele Villa](https://cc.oulu.fi/~mvilla21/)  
 Ben Warhurst  
 Marshall Williams  
 
