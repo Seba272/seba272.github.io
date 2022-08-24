@@ -66,6 +66,7 @@ My ORCID ID is: [0000-0002-3773-6471](http://orcid.org/0000-0002-3773-6471).
 Special Pages
 =============
 
+* [A tentative bibliographic list for BV functions on Carnot groups](/assets/pdf/BVonCarnot-Bibliography.pdf)
 * [Interactions between Geometric measure theory, Singular integrals, and PDE](https://www.him.uni-bonn.de/programs/current-trimester-program/interactions-geometric-singular-pde/description/)  
 	Trimester Program (January 10 – April 22, 2022), 
 	Bonn
