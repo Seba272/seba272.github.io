@@ -93,18 +93,6 @@ Publications
 
 ### Preprints
 
-* "Jet spaces on Carnot groups"  
-	(with B. Warhurst)  
-	[[arXiv](http://arxiv.org/abs/2201.04534)]
-<!-- -->
-* "Nilpotent groups and biLipschitz embeddings into L1"  
-	(with S. Eriksson-Bique, C. Gartland, E. Le Donne, L. Naples)  
-	[[arXiv](https://arxiv.org/abs/2112.11402)]
-<!-- -->
-* "Lipschitz Carnot-Carathéodory structures and their limits"  
-	(with G. Antonelli and E. Le Donne)  
-	[[arXiv](https://arxiv.org/abs/2111.06789)]
-<!-- -->
 * "Polarised Lie groups contactomorphic to stratified groups"  
 	(with A. Ottazzi)  
 	[[arXiv](https://arxiv.org/abs/1807.03854/)]
@@ -120,41 +108,61 @@ Publications
 
 ### Published papers
 <!-- -->
+0. "Jet spaces on Carnot groups"  
+	(with B. Warhurst)  
+	Accepted in _Revista Matemática Iberoamericana_ (2023)  
+<!--	[[Paper]()] -->
+	[[arXiv](http://arxiv.org/abs/2201.04534)]  
+	I have written some python code to compute those jet spaces:
+	see the [page on github](https://github.com/Seba272/LieAlgebras).
+<!-- -->
+0. "Nilpotent groups and biLipschitz embeddings into L1"  
+	(with S. Eriksson-Bique, C. Gartland, E. Le Donne, L. Naples)  
+	_International Mathematics Research Notices_, Volume 2023, Issue 12, June 2023, Pages 10759–10797  
+	[[Paper](https://doi.org/10.1093/imrn/rnac264)]
+	[[arXiv](https://arxiv.org/abs/2112.11402)]
+<!-- -->
 0. "Lipschitz functions on submanifolds in Heisenberg groups"  
 	(with A. Julia and D.Vittone)  
-	Accepted in _International Mathematics Research Notices_ (2022)  
-<!--	[[Paper]()] -->
+	_International Mathematics Research Notices_, Volume 2023, Issue 9, May 2023, Pages 7399–7422  
+	[[Paper](https://doi.org/10.1093/imrn/rnac066)]
 	[[arXiv](https://arxiv.org/abs/2107.00515)]  
+<!-- -->
+0. "Lipschitz Carnot-Carathéodory structures and their limits"  
+	(with G. Antonelli and E. Le Donne)  
+	_Journal of Dynamical and Control Systems_ (2022)  
+	[[Paper](https://doi.org/10.1007/s10883-022-09613-1)]
+	[[arXiv](https://arxiv.org/abs/2111.06789)]
 <!-- -->
 0. "Metric equivalences of Heintze groups and applications to classifications in low dimension"  
 	(with V. Kivioja and E. Le Donne)  
-	Accepted in _Illinois Journal of Mathematics_ (2021)  
-<!--	[[Paper]()] -->
+	_Illinois Journal of Mathematics_ Vol. 66, Issue 1, (Apr 2022) , pgs 91-121  
+	[[Paper](https://doi.org/10.1215/00192082-9702295)]
 	[[arXiv](https://arxiv.org/abs/2104.00368)]
 <!-- -->
 0. "Area of intrinsic graphs and coarea formula in Carnot Groups"  
 	(with A. Julia and D. Vittone)  
-	Accepted in _Mathematische Zeitschrift_ (2021)  
-<!--	[[Paper]()] -->
-	[[arXiv](https://arxiv.org/abs/2004.02520/)] 
+	_Mathematische Zeitschrift_, 301, 1369–1406 (2022).  
+	[[Paper](https://doi.org/10.1007/s00209-021-02916-2)]
+	[[arXiv](https://arxiv.org/abs/2004.02520/)]
 	[[cvgmt](http://cvgmt.sns.it/paper/4635/)]
 <!-- -->
 0. "Spectral multipliers and wave equation for sub-Laplacians: lower bounds of Euclidean type"  
 	(with A. Martini, D. Müller)  
-	Accepted in _Journal of the European Mathematical Society_ (2021)  
+	_Journal of the European Mathematical Society_, 25 (2023), no. 3, pp. 785–843  
 	[[Paper](http://doi.org/10.4171/JEMS/1191)]
 	[[arXiv](https://arxiv.org/abs/1812.02671/)]
 <!-- -->
 0. "Nowhere differentiable intrinsic Lipschitz graphs"  
 	(with A. Julia and D. Vittone)  
-	Accepted in _Bulletin of the London Mathematical Society_ (2021)  
+	_Bulletin of the London Mathematical Society_, Volume 53, Issue 6, December 2021, Pages 1766-1775  
 	[[Paper](http://doi.org/10.1112/blms.12540)]
 	[[arXiv](https://arxiv.org/abs/2101.02985)]
 <!-- -->
 0. "Intrinsic rectifiability via flat cones in the Heisenberg group"  
 	(with A. Julia)  
 	Accepted in _Annali della Scuola Normale Superiore di Pisa, Classe di Scienze_ (2021)  
-	[[Paper](https://doi.org/10.2422/2036-2145.202005_012)] 
+	[[Paper](https://doi.org/10.2422/2036-2145.202005_012)]
 	[[arXiv](https://arxiv.org/abs/2003.09196/)]
 	[[cvgmt](http://cvgmt.sns.it/paper/4617/)]
 <!-- -->
@@ -172,8 +180,8 @@ Publications
 <!-- -->
 0. "Metric Lie groups admitting dilations"  
 	(with E. Le Donne)  
-	_Arkiv för Matematik_, Volume 59, Number 1 (2021)  
-	[[Paper]](https://dx.doi.org/10.4310/ARKIV.2021.v59.n1.a5)
+	_Arkiv för Matematik_ Vol. 59, Issue 1, (Apr 2021) , pgs 125-163  
+	[[Paper](https://dx.doi.org/10.4310/ARKIV.2021.v59.n1.a5)]
 	[[arXiv](https://arxiv.org/abs/1901.02559/)]
 	[[cvgmt](http://cvgmt.sns.it/paper/4185/)]
 <!-- -->
