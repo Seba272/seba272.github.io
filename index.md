@@ -15,19 +15,20 @@ profile:
 [Test Page](test)
 -->
 
-I am a postdoc
+I have been a postdoc
 at the [Department of Mathematics and Statistics](https://www.jyu.fi/science/en/maths)
 of the [University of Jyväskylä](https://www.jyu.fi/en/)
 in Finland (EU), under the supervision of
-[Katrin Fässler](https://kfaessler.wixsite.com/math/).
+[Katrin Fässler](https://kfaessler.wixsite.com/math/)
+and of [Enrico Le Donne](https://sites.google.com/site/enricoledonne/).
 
-**Metric Geometry** and **Geometric Measure Theory**, 
-together with  **Lie Group Theory**, 
-are my main areas of research,
- with particular emphasis on problems that arise in 
-**sub-Riemannian Geometry**,
-**Analysis on Metric Spaces**
-and in **Harmonic Analysis**.
+My main areas of research are:
+- **Metric Geometry**,
+- **Geometric Measure Theory**, 
+- **Lie Group Theory**, 
+- **sub-Riemannian Geometry**,
+- **Analysis on Metric Spaces**,
+- (a little bit in) **Harmonic Analysis**.
 
 Primarily, I study Lie groups equipped with non-Riemannian distances such as Carnot-Carathéodory distances.
 **Carnot-Carathéodory Geometry**,
@@ -39,12 +40,14 @@ Geometric Group Theory,
 Theory of Hypoelliptic Operators
 and Control Theory.
 
+<!--
 In particular, I am interested in the regularity of minimal submanifolds,
 conditions for equivalence between CC distances
 and boundedness of certain operators.
 The recurrent theme is the geometry of Carnot groups, 
 which appear in the asymptotic geometry of CC spaces, 
 both at infinitesimal and at large scales.
+-->
 
 I obtained a double PhD degree in 2017
 from the [University of Jyväskylä](http://www.jyu.fi/en/) (Finland, EU) 
@@ -56,6 +59,8 @@ I later worked in Birmingham (UK) with
 and in Padova (IT, EU) with 
 [Davide Vittone](https://www.math.unipd.it/en/department/people/user.php?usertype=2&user=364)
 for one year and a half. 
+
+Since September 2023, I am taking a break from the academic career.
 
 If you want to know more about me, here is my [CV](/assets/pdf/SebastianoNicolussiGolo-CurriculumVitae.pdf). 
 If you want to contact me, you can write me an email to <sebastiano.s.nicolussi-golo@jyu.fi>.
