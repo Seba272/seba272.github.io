@@ -98,6 +98,10 @@ Publications
 
 ### Preprints
 
+* "Curvature Exponent and Geodesic Dimension on Sard-regular Carnot groups"  
+	(with Y. Zhang)  
+	[[arxiv](https://arxiv.org/abs/2308.15811)]
+<!-- -->
 * "Polarised Lie groups contactomorphic to stratified groups"  
 	(with A. Ottazzi)  
 	[[arXiv](https://arxiv.org/abs/1807.03854/)]
