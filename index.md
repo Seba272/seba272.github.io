@@ -7,9 +7,7 @@ profile:
   align: right
   image: seba-2-low.jpg
   address: >
-    <p>P.O. Box 35 (MaD)</p>
-    <p>University of Jyväskylä</p>
-    <p>FI-40014 Finland</p>
+    <p> </p>
 ---
 <!--
 [Test Page](test)
@@ -63,7 +61,7 @@ for one year and a half.
 Since September 2023, I am taking a break from the academic career.
 
 If you want to know more about me, here is my [CV](/assets/pdf/SebastianoNicolussiGolo-CurriculumVitae.pdf). 
-If you want to contact me, you can write me an email to <sebastiano.s.nicolussi-golo@jyu.fi>.
+If you want to contact me, you can write me an email to <sebastiano2.72@gmail.com>.
 My ORCID ID is: [0000-0002-3773-6471](http://orcid.org/0000-0002-3773-6471).
 
 ----
@@ -98,9 +96,13 @@ Publications
 
 ### Preprints
 
+* "Moduli of Sub-Laplacians on the second Heisenberg group"  
+	(with B. Warhurst)  
+	[[arXiv](https://arxiv.org/abs/2310.05586)]
+<!-- -->
 * "Curvature Exponent and Geodesic Dimension on Sard-regular Carnot groups"  
 	(with Y. Zhang)  
-	[[arxiv](https://arxiv.org/abs/2308.15811)]
+	[[arXiv](https://arxiv.org/abs/2308.15811)]
 <!-- -->
 * "Polarised Lie groups contactomorphic to stratified groups"  
 	(with A. Ottazzi)  
@@ -117,31 +119,43 @@ Publications
 
 ### Published papers
 <!-- -->
+0. "Classical flows of vector fields with exponential or sub-exponential summability"  
+	(with A. Ambrosio and F. Serra Cassano)  
+	J. Differ. Equations  372  458--504  (2023)  
+	[[Paper](https://doi.org/10.1016/j.jde.2023.07.005)]
+	[[arXiv]()]
+<!-- -->
+0. "Optimal $C^\infty$-approximation of functions with exponentially or sub-exponentially integrable derivative"  
+	(with A. Ambrosio and F. Serra Cassano)  
+	Calc. Var. Partial Differ. Equ.  62  21  (2023)  
+	[[Paper](https://doi.org/10.1007/s00526-022-02346-w)]
+	[[arXiv]()]
+<!-- -->
 0. "Jet spaces on Carnot groups"  
 	(with B. Warhurst)  
-	Accepted in _Revista Matemática Iberoamericana_ (2023)  
-<!--	[[Paper]()] -->
+	Rev. Mat. Iberoam. 39 (2023), no. 6, pp. 2289–2330  
+	[[Paper](https://doi.org/10.4171/rmi/1439)]
 	[[arXiv](http://arxiv.org/abs/2201.04534)]  
 	I have written some python code to compute those jet spaces:
 	see the [page on github](https://github.com/Seba272/LieAlgebras).
 <!-- -->
 0. "Nilpotent groups and biLipschitz embeddings into L1"  
 	(with S. Eriksson-Bique, C. Gartland, E. Le Donne, L. Naples)  
-	_International Mathematics Research Notices_, Volume 2023, Issue 12, June 2023, Pages 10759–10797  
+	International Mathematics Research Notices, Volume 2023, Issue 12, June 2023, Pages 10759–10797  
 	[[Paper](https://doi.org/10.1093/imrn/rnac264)]
 	[[arXiv](https://arxiv.org/abs/2112.11402)]
 <!-- -->
-0. "Lipschitz functions on submanifolds in Heisenberg groups"  
-	(with A. Julia and D.Vittone)  
-	_International Mathematics Research Notices_, Volume 2023, Issue 9, May 2023, Pages 7399–7422  
-	[[Paper](https://doi.org/10.1093/imrn/rnac066)]
-	[[arXiv](https://arxiv.org/abs/2107.00515)]  
-<!-- -->
 0. "Lipschitz Carnot-Carathéodory structures and their limits"  
 	(with G. Antonelli and E. Le Donne)  
-	_Journal of Dynamical and Control Systems_ (2022)  
+	J. Dyn. Control. Syst. 29, 805–854 (2023)
 	[[Paper](https://doi.org/10.1007/s10883-022-09613-1)]
 	[[arXiv](https://arxiv.org/abs/2111.06789)]
+<!-- -->
+0. "Lipschitz functions on submanifolds in Heisenberg groups"  
+	(with A. Julia and D.Vittone)  
+	International Mathematics Research Notices, Volume 2023, Issue 9, May 2023, Pages 7399–7422  
+	[[Paper](https://doi.org/10.1093/imrn/rnac066)]
+	[[arXiv](https://arxiv.org/abs/2107.00515)]  
 <!-- -->
 0. "Metric equivalences of Heintze groups and applications to classifications in low dimension"  
 	(with V. Kivioja and E. Le Donne)  
@@ -151,26 +165,26 @@ Publications
 <!-- -->
 0. "Area of intrinsic graphs and coarea formula in Carnot Groups"  
 	(with A. Julia and D. Vittone)  
-	_Mathematische Zeitschrift_, 301, 1369–1406 (2022).  
+	Mathematische Zeitschrift, 301, 1369–1406 (2022).  
 	[[Paper](https://doi.org/10.1007/s00209-021-02916-2)]
 	[[arXiv](https://arxiv.org/abs/2004.02520/)]
 	[[cvgmt](http://cvgmt.sns.it/paper/4635/)]
 <!-- -->
 0. "Spectral multipliers and wave equation for sub-Laplacians: lower bounds of Euclidean type"  
 	(with A. Martini, D. Müller)  
-	_Journal of the European Mathematical Society_, 25 (2023), no. 3, pp. 785–843  
+	Journal of the European Mathematical Society, 25 (2023), no. 3, pp. 785–843  
 	[[Paper](http://doi.org/10.4171/JEMS/1191)]
 	[[arXiv](https://arxiv.org/abs/1812.02671/)]
 <!-- -->
 0. "Nowhere differentiable intrinsic Lipschitz graphs"  
 	(with A. Julia and D. Vittone)  
-	_Bulletin of the London Mathematical Society_, Volume 53, Issue 6, December 2021, Pages 1766-1775  
+	Bulletin of the London Mathematical Society, Volume 53, Issue 6, December 2021, Pages 1766-1775  
 	[[Paper](http://doi.org/10.1112/blms.12540)]
 	[[arXiv](https://arxiv.org/abs/2101.02985)]
 <!-- -->
 0. "Intrinsic rectifiability via flat cones in the Heisenberg group"  
 	(with A. Julia)  
-	Accepted in _Annali della Scuola Normale Superiore di Pisa, Classe di Scienze_ (2021)  
+	Ann. Sc. Norm. Super. Pisa Cl. Sci.,  Vol. XXIII, Issue 2 (2022).  
 	[[Paper](https://doi.org/10.2422/2036-2145.202005_012)]
 	[[arXiv](https://arxiv.org/abs/2003.09196/)]
 	[[cvgmt](http://cvgmt.sns.it/paper/4617/)]
