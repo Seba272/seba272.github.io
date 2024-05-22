@@ -108,10 +108,6 @@ Publications
 	(with Y. Zhang)  
 	[[arXiv](https://arxiv.org/abs/2308.15811)]
 <!-- -->
-* "Polarised Lie groups contactomorphic to stratified groups"  
-	(with A. Ottazzi)  
-	[[arXiv](https://arxiv.org/abs/1807.03854/)]
-<!-- -->
 * "Quasiregular mappings between subRiemannian manifolds"  
 	(with C.-Y. Guo, M. Williams)  
 	[[arXiv](https://arxiv.org/abs/1505.00891/)]
@@ -122,6 +118,12 @@ Publications
 
 
 ### Published papers
+<!-- -->
+0. "Left-invariant distributions diffeomorphic to flat distributions"  
+	(with A. Ottazzi)  
+	Geom Dedicata 218, 56 (2024)  
+	[[Pape](https://doi.org/10.1007/s10711-024-00905-3)]
+	[[arXiv](https://arxiv.org/abs/1807.03854/)]
 <!-- -->
 0. "Classical flows of vector fields with exponential or sub-exponential summability"  
 	(with A. Ambrosio and F. Serra Cassano)  
