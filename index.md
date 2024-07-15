@@ -281,6 +281,7 @@ Collaborators and Friends
 - Marshall Williams
 -->
 
+[Gioacchino Antonelli](https://sites.google.com/view/gioacchinoantonelli/)  
 Francesco Bigolin  
 [Michael G. Cowling](https://web.maths.unsw.edu.au/~michaelc/)  
 [Damian Dąbrowski](https://www.damiandabrowski.eu)  
