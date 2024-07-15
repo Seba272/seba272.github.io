@@ -70,6 +70,7 @@ Special Pages
 =============
 
 * [A tentative bibliographic list for BV functions on Carnot groups](/assets/pdf/BVonCarnot-Bibliography.pdf)
+<!--
 * [Interactions between Geometric measure theory, Singular integrals, and PDE](https://www.him.uni-bonn.de/programs/current-trimester-program/interactions-geometric-singular-pde/description/)  
 	Trimester Program (January 10 – April 22, 2022), 
 	Bonn
@@ -88,6 +89,7 @@ Special Pages
 	in Będlewo (Poland), 24.11.2019 - 30.11.2019
 * [Didattica](https://www.math.unipd.it/~fabio/didattica/index_didattica.html):
 	"Analisi Matematica 1" per Ingegneria Meccanica, tenuto da Fabio Paronetto.
+-->
 
 ---
 
