@@ -13,12 +13,13 @@ profile:
 [Test Page](test)
 -->
 
-I have been a postdoc
-at the [Department of Mathematics and Statistics](https://www.jyu.fi/science/en/maths)
-of the [University of Jyväskylä](https://www.jyu.fi/en/)
-in Finland (EU), under the supervision of
-[Katrin Fässler](https://kfaessler.wixsite.com/math/)
-and of [Enrico Le Donne](https://sites.google.com/site/enricoledonne/).
+I am a [Senior Researcher](https://www.unifr.ch/math/en/department/staff/list/people/396609/93164) 
+at the [Department of Mathematics](https://www.unifr.ch/math/en/) 
+of the [University of Fribourg](https://www.unifr.ch/home/en/),
+in the [Canton of Fribourg](https://fribourg.ch/en/)
+(in [Switzerland](https://www.admin.ch/gov/en/start.html)), 
+which is outside the [European Union](https://european-union.europa.eu/index_en),
+but still on [planet Earth](https://www.un.org).
 
 My main areas of research are:
 - **Metric Geometry**,
@@ -26,7 +27,7 @@ My main areas of research are:
 - **Lie Group Theory**, 
 - **sub-Riemannian Geometry**,
 - **Analysis on Metric Spaces**,
-- (a little bit in) **Harmonic Analysis**.
+- **Harmonic Analysis**.
 
 Primarily, I study Lie groups equipped with non-Riemannian distances such as Carnot-Carathéodory distances.
 **Carnot-Carathéodory Geometry**,
@@ -57,8 +58,19 @@ I later worked in Birmingham (UK) with
 and in Padova (IT, EU) with 
 [Davide Vittone](https://www.math.unipd.it/en/department/people/user.php?usertype=2&user=364)
 for one year and a half. 
+From 2020 to 2023,
+I have been a postdoc
+at the [Department of Mathematics and Statistics](https://www.jyu.fi/science/en/maths)
+of the [University of Jyväskylä](https://www.jyu.fi/en/)
+in Finland (EU), under the supervision of
+[Katrin Fässler](https://kfaessler.wixsite.com/math/)
+and of [Enrico Le Donne](https://sites.google.com/site/enricoledonne/).
 
-Since September 2023, I am taking a break from the academic career.
+Then, I took a break in the academic year 2023--2024,
+when I lived in the Zen monastery [Fudenji](https://www.fudenji.it).
+
+As of 2024, I am working in the academy, 
+under the supervision of my boss, mentor and friend [Enrico Le Donne](https://sites.google.com/site/enricoledonne/).
 
 If you want to know more about me, here is my [CV](/assets/pdf/SebastianoNicolussiGolo-CurriculumVitae.pdf). 
 If you want to contact me, you can write me an email to <sebastiano2.72@gmail.com>.
@@ -70,25 +82,27 @@ Special Pages
 =============
 
 * [A tentative bibliographic list for BV functions on Carnot groups](/assets/pdf/BVonCarnot-Bibliography.pdf)
+* [Fudenji](https://www.fudenji.it)
+
 <!--
-* [Interactions between Geometric measure theory, Singular integrals, and PDE](https://www.him.uni-bonn.de/programs/current-trimester-program/interactions-geometric-singular-pde/description/)  
-	Trimester Program (January 10 – April 22, 2022), 
-	Bonn
-* [Jyväskylä Geometric Analysis Seminar](https://kfaessler.wixsite.com/math/jyväskylä-geometry-seminar)
-* [Lettura della sera](pages/lettura-della-sera)
-* [GeA](pages/GeA): seminario di Geometria e Analisi a Padova.
-* [Sub-Riemannian Geometry and Beyond, III](https://sites.google.com/view/pisa2020):
-	A gist on Lie groups in Pisa.  
-	_(Postponed because of Covid-19 pandemy)_  
-	Introductory courses: ~~19 May 2020 - 23 May 2020~~; 
-	[http://crm.sns.it/event/462/](http://crm.sns.it/event/462/)  
-	The conference: ~~25 May 2020 - 29 May 2020~~;
-	[http://crm.sns.it/event/452/](http://crm.sns.it/event/452/)  
-*	Miniworkshop [Geometric Measure Theory in Padova](https://gmtpadova2020.frama.site).
-* [Latest in Geometric Analysis. Celebration of Pekka Koskela's 59th birthday](https://www.impan.pl/en/activities/banach-center/conferences/19-latest): 
-	in Będlewo (Poland), 24.11.2019 - 30.11.2019
-* [Didattica](https://www.math.unipd.it/~fabio/didattica/index_didattica.html):
-	"Analisi Matematica 1" per Ingegneria Meccanica, tenuto da Fabio Paronetto.
+[Interactions between Geometric measure theory, Singular integrals, and PDE](https://www.him.uni-bonn.de/programs/current-trimester-program/interactions-geometric-singular-pde/description/)  
+Trimester Program (January 10 – April 22, 2022), 
+Bonn
+[Jyväskylä Geometric Analysis Seminar](https://kfaessler.wixsite.com/math/jyväskylä-geometry-seminar)
+[Lettura della sera](pages/lettura-della-sera)
+[GeA](pages/GeA): seminario di Geometria e Analisi a Padova.
+[Sub-Riemannian Geometry and Beyond, III](https://sites.google.com/view/pisa2020):
+A gist on Lie groups in Pisa.  
+_(Postponed because of Covid-19 pandemy)_  
+Introductory courses: ~~19 May 2020 - 23 May 2020~~; 
+[http://crm.sns.it/event/462/](http://crm.sns.it/event/462/)  
+The conference: ~~25 May 2020 - 29 May 2020~~;
+[http://crm.sns.it/event/452/](http://crm.sns.it/event/452/)  
+Miniworkshop [Geometric Measure Theory in Padova](https://gmtpadova2020.frama.site).
+[Latest in Geometric Analysis. Celebration of Pekka Koskela's 59th birthday](https://www.impan.pl/en/activities/banach-center/conferences/19-latest): 
+in Będlewo (Poland), 24.11.2019 - 30.11.2019
+[Didattica](https://www.math.unipd.it/~fabio/didattica/index_didattica.html):
+"Analisi Matematica 1" per Ingegneria Meccanica, tenuto da Fabio Paronetto.
 -->
 
 ---
