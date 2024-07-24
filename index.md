@@ -81,6 +81,7 @@ My ORCID ID is: [0000-0002-3773-6471](http://orcid.org/0000-0002-3773-6471).
 Special Pages
 =============
 
+* [Thematical Seminar 2024](/pages/2024thematicalseminar)
 * [A tentative bibliographic list for BV functions on Carnot groups](/assets/pdf/BVonCarnot-Bibliography.pdf)
 * [Fudenji](https://www.fudenji.it)
 
