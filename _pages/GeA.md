@@ -2,7 +2,7 @@
 layout: page
 title: GeA
 permalink: /pages/GeA
-description: Semiario di Geometria e Analisi a Padova (2019-2020)
+description: Seminario di Geometria e Analisi a Padova (2019-2020)
 ---
 <div class="col">
     <img class="col three" src="{{ site.baseurl }}/assets/img/logo-unipd-3.jpeg">
