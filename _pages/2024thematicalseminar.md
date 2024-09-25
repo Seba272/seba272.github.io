@@ -22,14 +22,14 @@ List of topics and meetings:
 Dates and subjects may change over time:
 
 * _25 September_ : Introductory lesson
-* _2 October_ : **The Heisenberg group**  
-	*Sections*: 1.1, 1.2., 1.3.1, 1.4.1  
-	*Speaker*: Braun  
+* _2 October_ : No lesson
 * _9 October_ : **Chow's Theorem**  
 	Sections: 3.2.1, 3.2.2, 3.2.3  
 	_Speaker_ : Perroud
 * _16 October_ : 
-* _23 October_ :
+* _23 October_ : **The Heisenberg group**  
+	*Sections*: 1.1, 1.2., 1.3.1, 1.4.1  
+	*Speaker*: Braun  
 * _30 October_ : **Isometrically homogeneous spaces**  
 	_Sections_ : 5.1, 5.2  
 	_Speaker_ : Bornet
