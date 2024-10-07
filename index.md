@@ -83,8 +83,12 @@ Special Pages
 
 * [Thematical Seminar 2024](/pages/2024thematicalseminar)
 * [A tentative bibliographic list for BV functions on Carnot groups](/assets/pdf/BVonCarnot-Bibliography.pdf)
-* [Fudenji](https://www.fudenji.it)
-
+* There is a small but very energetic community of Buddhist monks and nuns on the hills of Parma. 
+	Their home is called [Fudenji](https://www.fudenji.it), the _Temple of the Universal Teaching_.
+	The strict rule of their practice embrace everyone who knocks at their door, in the effort of following the Way, the way from me to you.  
+	In a world where equality is thought as the key of peace, while difference the key of war, they work every day between illusions and enlightment to make _difference_ the key of our encouter.
+	After forty years of exercise and construction, the moment has come to build what alone reunites earth and sky, past and future, ancestors and descendants: the Pagoda.  
+	
 <!--
 [Interactions between Geometric measure theory, Singular integrals, and PDE](https://www.him.uni-bonn.de/programs/current-trimester-program/interactions-geometric-singular-pde/description/)  
 Trimester Program (January 10 – April 22, 2022), 
@@ -121,10 +125,6 @@ Publications
 	(with B. Warhurst)  
 	[[arXiv](https://arxiv.org/abs/2310.05586)]
 <!-- -->
-* "Curvature Exponent and Geodesic Dimension on Sard-regular Carnot groups"  
-	(with Y. Zhang)  
-	[[arXiv](https://arxiv.org/abs/2308.15811)]
-<!-- -->
 * "Quasiregular mappings between subRiemannian manifolds"  
 	(with C.-Y. Guo, M. Williams)  
 	[[arXiv](https://arxiv.org/abs/1505.00891/)]
@@ -136,10 +136,16 @@ Publications
 
 ### Published papers
 <!-- -->
+0. "Curvature Exponent and Geodesic Dimension on Sard-regular Carnot groups"  
+	(with Y. Zhang)  
+	Anal. and Geom. in Metr. Spaces, vol. 12, no. 1, pp. 20240004 (2024)  
+	[[Paper](https://doi.org/10.1515/agms-2024-0004)]
+	[[arXiv](https://arxiv.org/abs/2308.15811)]
+<!-- -->
 0. "Left-invariant distributions diffeomorphic to flat distributions"  
 	(with A. Ottazzi)  
 	Geom Dedicata 218, 56 (2024)  
-	[[Pape](https://doi.org/10.1007/s10711-024-00905-3)]
+	[[Paper](https://doi.org/10.1007/s10711-024-00905-3)]
 	[[arXiv](https://arxiv.org/abs/1807.03854/)]
 <!-- -->
 0. "Classical flows of vector fields with exponential or sub-exponential summability"  
@@ -154,7 +160,7 @@ Publications
 	[[Paper](https://doi.org/10.1007/s00526-022-02346-w)]
 	[[arXiv]()]
 <!-- -->
-0. "Jet spaces on Carnot groups"  
+0. "Jet spaces over Carnot groups"  
 	(with B. Warhurst)  
 	Rev. Mat. Iberoam. 39 (2023), no. 6, pp. 2289–2330  
 	[[Paper](https://doi.org/10.4171/rmi/1439)]
