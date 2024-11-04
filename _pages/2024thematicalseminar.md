@@ -38,10 +38,10 @@ Dates and subjects may change over time:
 * _30 October_ : **Isometrically homogeneous spaces**  
 	_Sections_ : 5.1, 5.2  
 	_Speaker_ : Bornet
-* _6 November_ : **The End Point Map**  
+* _6 November_: No lesson
+* _13 November_ : **The End Point Map**  
 	_Sections_ : 6.2  
 	_Speaker_ : Bossert
-* _13 November_ : 
 * _20 November_ : **Volume growth in Lie groups**  
 	_Sections_ : 5.4  
 	_Speaker_ : Matano
