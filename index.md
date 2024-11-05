@@ -95,7 +95,6 @@ Trimester Program (January 10 – April 22, 2022),
 Bonn
 [Jyväskylä Geometric Analysis Seminar](https://kfaessler.wixsite.com/math/jyväskylä-geometry-seminar)
 [Lettura della sera](pages/lettura-della-sera)
-[GeA](pages/GeA): seminario di Geometria e Analisi a Padova.
 [Sub-Riemannian Geometry and Beyond, III](https://sites.google.com/view/pisa2020):
 A gist on Lie groups in Pisa.  
 _(Postponed because of Covid-19 pandemy)_  
@@ -327,3 +326,6 @@ Ville Kivioja
 Ben Warhurst  
 Marshall Williams  
 
+Old Pages
+=========
+* [GeA](pages/GeA): seminario di Geometria e Analisi a Padova.
