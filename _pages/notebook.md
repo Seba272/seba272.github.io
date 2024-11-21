@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Notebook
 permalink: /pages/notebook
 description: A page that collects notes, a notebook
@@ -9,7 +9,7 @@ Use of "any"
 ------------
 
 It is better not to use "any" in mathematics, beacuse its meaning depends on the context.
-In English, "for any $x$" can mean both "for all $x$", i.e., $\forall x$, and "for some $x$", i.e., $\exists x$.
+In English, "for any $$x$$" can mean both "for all $$x$$", i.e., $$\forall x$$, and "for some $$x$$", i.e., $$\exists x$$.
 The choice depends on the context: this is not admissible in mathematics.
 
 Here are two examples from [wordreference.com](https://www.wordreference.com/enit/any):
