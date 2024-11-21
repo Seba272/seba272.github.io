@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Notebook
 permalink: /pages/notebook
 description: A page that collects notes, a notebook
