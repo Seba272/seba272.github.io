@@ -82,6 +82,7 @@ Special Pages
 =============
 
 * [Thematical Seminar 2024](/pages/2024thematicalseminar)
+* [A notebook](/pages/notebook)
 * [A tentative bibliographic list for BV functions on Carnot groups](/assets/pdf/BVonCarnot-Bibliography.pdf)
 * There is a small but very energetic community of Buddhist monks and nuns on the hills of Parma. 
 	Their home is called [Fudenji](https://www.fudenji.it), the _Temple of the Universal Teaching_.
