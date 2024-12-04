@@ -45,8 +45,8 @@ Dates and subjects may change over time:
 * _20 November_ : **Volume growth in Lie groups**  
 	_Sections_ : 5.4  
 	_Speaker_ : Matano
-* _27 November_ :
-* _4 December_ :
+* _27 November_ : No Lesson
+* _4 December_ : Final Meeting
 * _11 December_ :
 * _18 December_ :
 
