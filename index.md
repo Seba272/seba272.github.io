@@ -81,6 +81,7 @@ My ORCID ID is: [0000-0002-3773-6471](http://orcid.org/0000-0002-3773-6471).
 Special Pages
 =============
 
+* Course in Fribourg 2025: [Partial Differential Equations](/pages/2025PDE)
 * [Thematical Seminar 2024](/pages/2024thematicalseminar)
 * [A notebook](/pages/notebook)
 * [A tentative bibliographic list for BV functions on Carnot groups](/assets/pdf/BVonCarnot-Bibliography.pdf)
