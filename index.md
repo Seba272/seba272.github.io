@@ -118,6 +118,9 @@ Publications
 
 ### Preprints
 
+* "Equivalence of sub-Laplacian on Polarized groups"  
+	(with A. Kijowski and B. Warhurst)  
+	[[arxiv](https://arxiv.org/abs/2501.00576)]
 * "Submanifolds with boundary and Stokes' Theorem in Heisenberg groups"  
 	(with M. Di Marco, A. Julia, D. Vittone)  
 	[[arxiv](https://arxiv.org/abs/2403.18675)]  
