@@ -21,6 +21,8 @@ in the [Canton of Fribourg](https://fribourg.ch/en/)
 which is outside the [European Union](https://european-union.europa.eu/index_en),
 but still on [planet Earth](https://www.un.org).
 
+If you want to contact me, you can write me an email to <sebastiano2.72@gmail.com>.
+
 My main areas of research are:
 - **Metric Geometry**,
 - **Geometric Measure Theory**, 
@@ -29,6 +31,7 @@ My main areas of research are:
 - **Analysis on Metric Spaces**,
 - **Harmonic Analysis**.
 
+<!--
 Primarily, I study Lie groups equipped with non-Riemannian distances such as Carnot-Carathéodory distances.
 **Carnot-Carathéodory Geometry**,
  also called sub-Riemannian Geometry,
@@ -39,7 +42,6 @@ Geometric Group Theory,
 Theory of Hypoelliptic Operators
 and Control Theory.
 
-<!--
 In particular, I am interested in the regularity of minimal submanifolds,
 conditions for equivalence between CC distances
 and boundedness of certain operators.
@@ -48,6 +50,7 @@ which appear in the asymptotic geometry of CC spaces,
 both at infinitesimal and at large scales.
 -->
 
+<!--
 I obtained a double PhD degree in 2017
 from the [University of Jyväskylä](http://www.jyu.fi/en/) (Finland, EU) 
 and from the [University of Trento](http://www.unitn.it/en) (Italy, EU), 
@@ -71,9 +74,9 @@ when I lived in the Zen monastery [Fudenji](https://www.fudenji.it).
 
 As of 2024, I am working in the academy, 
 under the supervision of my boss, mentor and friend [Enrico Le Donne](https://sites.google.com/site/enricoledonne/).
+-->
 
 If you want to know more about me, here is my [CV](/assets/pdf/SebastianoNicolussiGolo-CurriculumVitae.pdf). 
-If you want to contact me, you can write me an email to <sebastiano2.72@gmail.com>.
 My ORCID ID is: [0000-0002-3773-6471](http://orcid.org/0000-0002-3773-6471).
 
 ----
@@ -82,36 +85,15 @@ Special Pages
 =============
 
 * Course in Fribourg 2025: [Partial Differential Equations](/pages/2025PDE)
-* [Thematical Seminar 2024](/pages/2024thematicalseminar)
+* [Sub-Riemannian Geometry and Beyond, IV](https://sites.google.com/view/srgb/home/4)
+	in Schwarzsee (Fribourg, Switzerland),  23-27 of June 2025.
 * [A notebook](/pages/notebook)
-* [A tentative bibliographic list for BV functions on Carnot groups](/assets/pdf/BVonCarnot-Bibliography.pdf)
 * There is a small but very energetic community of Buddhist monks and nuns on the hills of Parma. 
 	Their home is called [Fudenji](https://www.fudenji.it), the _Temple of the Universal Teaching_.
 	The strict rule of their practice embrace everyone who knocks at their door, in the effort of following the Way, the way from me to you.  
 	In a world where equality is thought as the key of peace, while difference the key of war, they work every day between illusions and enlightment to make _difference_ the key of our encouter.
 	After forty years of exercise and construction, the moment has come to build what alone reunites earth and sky, past and future, ancestors and descendants: the Pagoda.  
 	
-<!--
-[Interactions between Geometric measure theory, Singular integrals, and PDE](https://www.him.uni-bonn.de/programs/current-trimester-program/interactions-geometric-singular-pde/description/)  
-Trimester Program (January 10 – April 22, 2022), 
-Bonn
-[Jyväskylä Geometric Analysis Seminar](https://kfaessler.wixsite.com/math/jyväskylä-geometry-seminar)
-[Lettura della sera](pages/lettura-della-sera)
-[Sub-Riemannian Geometry and Beyond, III](https://sites.google.com/view/pisa2020):
-A gist on Lie groups in Pisa.  
-_(Postponed because of Covid-19 pandemy)_  
-Introductory courses: ~~19 May 2020 - 23 May 2020~~; 
-[http://crm.sns.it/event/462/](http://crm.sns.it/event/462/)  
-The conference: ~~25 May 2020 - 29 May 2020~~;
-[http://crm.sns.it/event/452/](http://crm.sns.it/event/452/)  
-Miniworkshop [Geometric Measure Theory in Padova](https://gmtpadova2020.frama.site).
-[Latest in Geometric Analysis. Celebration of Pekka Koskela's 59th birthday](https://www.impan.pl/en/activities/banach-center/conferences/19-latest): 
-in Będlewo (Poland), 24.11.2019 - 30.11.2019
-[Didattica](https://www.math.unipd.it/~fabio/didattica/index_didattica.html):
-"Analisi Matematica 1" per Ingegneria Meccanica, tenuto da Fabio Paronetto.
--->
-
----
 
 Publications
 ============
@@ -255,14 +237,16 @@ Publications
 	[[arXiv](https://arxiv.org/abs/1803.04502)]
 <!-- -->
 0. "Some remarks on contact variations in the first Heisenberg group"  
-	_Ann. Acad. Sci. Fenn. Math._, 43, 311--335 (2018)  
+	_Ann. Acad. Sci. Fenn. Math.,_
+	43, 311--335 (2018)  
 	[[Paper](http://www.acadsci.fi/mathematica/Vol43/Golo.html)]
 	[[arXiv](https://arxiv.org/abs/1611.07358)]
 	[[cvgmt](http://cvgmt.sns.it/paper/2928/)]
 <!-- -->
 0. "Regularity properties of spheres in homogeneous groups"  
 	(with E. Le Donne)  
-	_Trans. Amer. Math. Soc._, 370, 2057-2084 (2018).  
+	_Trans. Amer. Math. Soc.,_
+	370, 2057-2084 (2018).  
 	[[Paper](http://www.ams.org/journals/tran/2018-370-03/S0002-9947-2017-07038-0/)]
 	[[arXiv](https://arxiv.org/abs/1509.03881)]
 	[[cvgmt](http://cvgmt.sns.it/paper/2794/)]
@@ -273,22 +257,25 @@ Publications
 <!-- -->
 0. "Asymptotic behavior of the Riemannian Heisenberg group and its horoboundary"  
 	(with E. Le Donne, A. Sambusetti)  
-	_Ann. Mat. Pura Appl._, Volume 196, Issue 4, pp 1251--1272 (2017)  
+	_Ann. Mat. Pura Appl.,_
+	Volume 196, Issue 4, pp 1251--1272 (2017)  
 	[[Paper](https://link.springer.com/article/10.1007%2Fs10231-016-0615-2)]
 	[[arXiv](https://arxiv.org/abs/1509.00288)]
 	[[cvgmt](http://cvgmt.sns.it/paper/2793/)]
 <!-- -->
 0. "A historical account on characterizations of C^1-manifolds in Euclidean spaces by tangent cones"  
 	(with F. Bigolin)  
-	_J. Math. Anal. Appl._ 2014  
+	_J. Math. Anal. Appl.,_
+	2014  
 	[[Paper](https://www.sciencedirect.com/science/article/pii/S0022247X13009396/)]
 <!-- -->
 {: reversed="reversed"}
 
----
+----
 
 Collaborators and Friends
 =========================
+
 <!--
 - Francesco Bigolin
 - [Michael G. Cowling](https://web.maths.unsw.edu.au/~michaelc/)
@@ -331,6 +318,52 @@ Ville Kivioja
 Ben Warhurst  
 Marshall Williams  
 
+Short Bio
+=========
+I obtained a double PhD degree in 2017
+from the [University of Jyväskylä](http://www.jyu.fi/en/) (Finland, EU) 
+and from the [University of Trento](http://www.unitn.it/en) (Italy, EU), 
+under the supervision of [Enrico Le Donne](https://sites.google.com/site/enricoledonne/) 
+and [Francesco Serra Cassano](http://www4.unitn.it/People/it/Web/Persona/PER0004233#INFO).
+I later worked in Birmingham (UK) with 
+[Alessio Martini](https://sites.google.com/site/mrtnale/) for one year,
+and in Padova (IT, EU) with 
+[Davide Vittone](https://www.math.unipd.it/en/department/people/user.php?usertype=2&user=364)
+for one year and a half. 
+From 2020 to 2023,
+I have been a postdoc
+at the [Department of Mathematics and Statistics](https://www.jyu.fi/science/en/maths)
+of the [University of Jyväskylä](https://www.jyu.fi/en/)
+in Finland (EU), under the supervision of
+[Katrin Fässler](https://kfaessler.wixsite.com/math/)
+and of [Enrico Le Donne](https://sites.google.com/site/enricoledonne/).
+
+Then, I took a break in the academic year 2023--2024,
+when I lived in the Zen monastery [Fudenji](https://www.fudenji.it).
+
+As of 2024, I am working in the academy, 
+under the supervision of my boss, mentor and friend [Enrico Le Donne](https://sites.google.com/site/enricoledonne/).
+
+
 Old Pages
 =========
+* [Thematical Seminar 2024](/pages/2024thematicalseminar)
 * [GeA](pages/GeA): seminario di Geometria e Analisi a Padova.
+* [A tentative bibliographic list for BV functions on Carnot groups](/assets/pdf/BVonCarnot-Bibliography.pdf)
+* [Jyväskylä Geometric Analysis Seminar](https://kfaessler.wixsite.com/math/jyväskylä-geometry-seminar)
+* [Lettura della sera](pages/lettura-della-sera)
+* [Sub-Riemannian Geometry and Beyond, III](https://sites.google.com/view/pisa2020):
+	A gist on Lie groups in Pisa.  
+	<!--
+	_(Postponed because of Covid-19 pandemy)_  
+	Introductory courses: ~~19 May 2020 - 23 May 2020~~; 
+	[http://crm.sns.it/event/462/](http://crm.sns.it/event/462/)  
+	The conference: ~~25 May 2020 - 29 May 2020~~;
+	[http://crm.sns.it/event/452/](http://crm.sns.it/event/452/)  
+	-->
+* Miniworkshop [Geometric Measure Theory in Padova](https://gmtpadova2020.frama.site).
+* [Latest in Geometric Analysis. Celebration of Pekka Koskela's 59th birthday](https://www.impan.pl/en/activities/banach-center/conferences/19-latest): 
+	in Będlewo (Poland), 24.11.2019 - 30.11.2019
+* [Didattica](https://www.math.unipd.it/~fabio/didattica/index_didattica.html):
+	"Analisi Matematica 1" per Ingegneria Meccanica, tenuto da Fabio Paronetto.
+

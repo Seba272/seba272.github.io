@@ -47,8 +47,8 @@ Dates and subjects may change over time:
 	_Speaker_ : Matano
 * _27 November_ : No Lesson
 * _4 December_ : Final Meeting
-* _11 December_ :
-* _18 December_ :
+* _11 December_ : No Lesson
+* _18 December_ : No Lesson
 
 
 
