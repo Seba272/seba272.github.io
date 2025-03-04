@@ -100,27 +100,36 @@ Publications
 
 ### Preprints
 
+* "Asymptotics of Riemannian Lie groups with nilpotency step 2"  
+	(with E. L. Donne, L. Nalon, and S.-Y. Ryoo)  
+	[[arxiv](https://arxiv.org/abs/2503.00560)]
+<!-- -->
 * "Equivalence of sub-Laplacian on Polarized groups"  
 	(with A. Kijowski and B. Warhurst)  
 	[[arxiv](https://arxiv.org/abs/2501.00576)]
-* "Submanifolds with boundary and Stokes' Theorem in Heisenberg groups"  
-	(with M. Di Marco, A. Julia, D. Vittone)  
-	[[arxiv](https://arxiv.org/abs/2403.18675)]  
 <!-- -->
 * "Moduli of Sub-Laplacians on the second Heisenberg group"  
 	(with B. Warhurst)  
 	[[arXiv](https://arxiv.org/abs/2310.05586)]
 <!-- -->
 * "Quasiregular mappings between subRiemannian manifolds"  
-	(with C.-Y. Guo, M. Williams)  
+	(with C.-Y. Guo, M. Williams, and Y. Xuan)  
 	[[arXiv](https://arxiv.org/abs/1505.00891/)]
-<!-- -->
-* "From homogeneous metric spaces to Lie groups"  
-	(with M. G. Cowling, V. Kivioja, E. Le Donne, A. Ottazzi )  
-	[[arXiv](https://arxiv.org/abs/1705.09648/)]
 
 
 ### Published papers
+<!-- -->
+0. "Submanifolds with boundary and Stokes' Theorem in Heisenberg groups"  
+	(with M. Di Marco, A. Julia, D. Vittone)  
+	Trans. Amer. Math. Soc. (only published electronically, for now).  
+	[[Paper](https://doi.org/10.1090/tran/9410)]
+	[[arxiv](https://arxiv.org/abs/2403.18675)]  
+<!-- -->
+0. "From homogeneous metric spaces to Lie groups"  
+	(with M. G. Cowling, V. Kivioja, E. Le Donne, A. Ottazzi )  
+	C. R. Math. Acad. Sci. Paris 362 (2024), 943–1014.  
+	[[Paper](https://doi.org/10.5802/crmath.608)]
+	[[arXiv](https://arxiv.org/abs/1705.09648/)]
 <!-- -->
 0. "Curvature Exponent and Geodesic Dimension on Sard-regular Carnot groups"  
 	(with Y. Zhang)  
