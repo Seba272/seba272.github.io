@@ -27,7 +27,7 @@ My main areas of research are:
 - **Metric Geometry**,
 - **Geometric Measure Theory**, 
 - **Lie Group Theory**, 
-- **sub-Riemannian Geometry**,
+- **Sub-Riemannian Geometry**,
 - **Analysis on Metric Spaces**,
 - **Harmonic Analysis**.
 
@@ -172,7 +172,7 @@ Publications
 <!-- -->
 0. "Lipschitz Carnot-Carathéodory structures and their limits"  
 	(with G. Antonelli and E. Le Donne)  
-	J. Dyn. Control. Syst. 29, 805–854 (2023)
+	J. Dyn. Control. Syst. 29, 805–854 (2023)  
 	[[Paper](https://doi.org/10.1007/s10883-022-09613-1)]
 	[[arXiv](https://arxiv.org/abs/2111.06789)]
 <!-- -->
