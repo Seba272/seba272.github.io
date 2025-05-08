@@ -10,7 +10,7 @@ Use of "any"
 
 It is better not to use "any" in mathematics, beacuse its meaning depends on the context.
 In English, "for any $$x$$" can mean both "for all $$x$$", i.e., $$\forall x$$, and "for some $$x$$", i.e., $$\exists x$$.
-The choice depends on the context: this is not admissible in mathematics.
+The choice depends on the context.
 
 Here are two examples from [wordreference.com](https://www.wordreference.com/enit/any):
 1. *I'll watch any film.*  
