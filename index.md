@@ -88,7 +88,6 @@ Special Pages
 * [Sub-Riemannian Geometry and Beyond, IV](https://sites.google.com/view/srgb/home/4)
 	in Schwarzsee (Fribourg, Switzerland),  23-27 of June 2025.
 * I have made a [PDF calculator](/assets/pdf/PDFCalculator.pdf), with a bit of python and latex. It is a fully functional calculator modulus 100.
-* [A notebook](/pages/notebook)
 * There is a small but very energetic community of Buddhist monks and nuns on the hills of Parma. 
 	Their home is called [Fudenji](https://www.fudenji.it), the _Temple of the Universal Teaching_.
 	The strict rule of their practice embrace everyone who knocks at their door, in the effort of following the Way, the way from me to you.  
