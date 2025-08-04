@@ -111,17 +111,18 @@ Publications
 * "Moduli of Sub-Laplacians on the second Heisenberg group"  
 	(with B. Warhurst)  
 	[[arXiv](https://arxiv.org/abs/2310.05586)]
-<!-- -->
-* "Quasiregular mappings between subRiemannian manifolds"  
-	(with C.-Y. Guo, M. Williams, and Y. Xuan)  
-	[[arXiv](https://arxiv.org/abs/1505.00891/)]
-
 
 ### Published papers
 <!-- -->
+0. "Quasiregular mappings between subRiemannian manifolds"  
+	(with C.-Y. Guo, M. Williams, and Y. Xuan)  
+	J. Lond. Math. Soc. (2) 112 (2025), no. 2, Paper No. e70254.  
+	[[Paper](https://doi.org/10.1112/jlms.70254)]
+	[[arXiv](https://arxiv.org/abs/1505.00891/)]
+<!-- -->
 0. "Submanifolds with boundary and Stokes' Theorem in Heisenberg groups"  
 	(with M. Di Marco, A. Julia, D. Vittone)  
-	Trans. Amer. Math. Soc. (only published electronically, for now).  
+	Trans. Amer. Math. Soc. 378 (2025), 4955-4990.  
 	[[Paper](https://doi.org/10.1090/tran/9410)]
 	[[arxiv](https://arxiv.org/abs/2403.18675)]  
 <!-- -->
