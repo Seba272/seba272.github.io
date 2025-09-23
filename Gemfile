@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
-gem "nokogiri", ">= 1.18.4"
+gem "rexml", ">= 3.4.2"
+gem "nokogiri", ">= 1.18.9"
+#gem "nokogiri", ">= 1.18.4"
 #gem "nokogiri", ">= 1.12.5"
 gem "kramdown", ">= 2.3.1"
 gem "addressable", ">= 2.8.0"
