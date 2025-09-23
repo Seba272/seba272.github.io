@@ -13,16 +13,9 @@ profile:
 [Test Page](test)
 -->
 
-I am a [Senior Researcher](https://www.unifr.ch/math/en/department/staff/list/people/396609/93164) 
-at the [Department of Mathematics](https://www.unifr.ch/math/en/) 
-of the [University of Fribourg](https://www.unifr.ch/home/en/),
-in the [Canton of Fribourg](https://fribourg.ch/en/)
-(in [Switzerland](https://www.admin.ch/gov/en/start.html)), 
-which is outside the [European Union](https://european-union.europa.eu/index_en),
-but still on [planet Earth](https://www.un.org).
-
+I am based in Trentino, Italy,
+and I am on looking for a job!
 If you want to contact me, you can write me an email to <sebastiano2.72@gmail.com>.
-
 My main areas of research are:
 - **Metric Geometry**,
 - **Geometric Measure Theory**, 
@@ -31,6 +24,16 @@ My main areas of research are:
 - **Analysis on Metric Spaces**,
 - **Harmonic Analysis**.
 
+
+<!--
+I am a [Senior Researcher](https://www.unifr.ch/math/en/department/staff/list/people/396609/93164) 
+at the [Department of Mathematics](https://www.unifr.ch/math/en/) 
+of the [University of Fribourg](https://www.unifr.ch/home/en/),
+in the [Canton of Fribourg](https://fribourg.ch/en/)
+(in [Switzerland](https://www.admin.ch/gov/en/start.html)), 
+which is outside the [European Union](https://european-union.europa.eu/index_en),
+but still on [planet Earth](https://www.un.org).
+-->
 <!--
 Primarily, I study Lie groups equipped with non-Riemannian distances such as Carnot-Carathéodory distances.
 **Carnot-Carathéodory Geometry**,
@@ -81,22 +84,39 @@ My ORCID ID is: [0000-0002-3773-6471](http://orcid.org/0000-0002-3773-6471).
 
 ----
 
-Special Pages
-=============
+## Short Bio
 
-* Course in Fribourg 2025: [Partial Differential Equations](/pages/2025PDE)
-* [Sub-Riemannian Geometry and Beyond, IV](https://sites.google.com/view/srgb/home/4)
-	in Schwarzsee (Fribourg, Switzerland),  23-27 of June 2025.
-* I have made a [PDF calculator](/assets/pdf/PDFCalculator.pdf), with a bit of python and latex. It is a fully functional calculator modulus 100.
-* There is a small but very energetic community of Buddhist monks and nuns on the hills of Parma. 
-	Their home is called [Fudenji](https://www.fudenji.it), the _Temple of the Universal Teaching_.
-	The strict rule of their practice embrace everyone who knocks at their door, in the effort of following the Way, the way from me to you.  
-	In a world where equality is thought as the key of peace, while difference the key of war, they work every day between illusions and enlightment to make _difference_ the key of our encouter.
-	After forty years of exercise and construction, the moment has come to build what alone reunites earth and sky, past and future, ancestors and descendants: the Pagoda.  
-	
+I obtained a double PhD degree in 2017
+from the [University of Jyväskylä](http://www.jyu.fi/en/) (Finland, EU) 
+and from the [University of Trento](http://www.unitn.it/en) (Italy, EU), 
+under the supervision of [Enrico Le Donne](https://sites.google.com/site/enricoledonne/) 
+and [Francesco Serra Cassano](http://www4.unitn.it/People/it/Web/Persona/PER0004233#INFO).
+I later worked in Birmingham (UK) with 
+[Alessio Martini](https://sites.google.com/site/mrtnale/) for one year,
+and in Padova (IT, EU) with 
+[Davide Vittone](https://www.math.unipd.it/en/department/people/user.php?usertype=2&user=364)
+for one year and a half. 
+From 2020 to 2023,
+I have been a postdoc
+at the [Department of Mathematics and Statistics](https://www.jyu.fi/science/en/maths)
+of the [University of Jyväskylä](https://www.jyu.fi/en/)
+in Finland (EU), under the supervision of
+[Katrin Fässler](https://kfaessler.wixsite.com/math/)
+and of [Enrico Le Donne](https://sites.google.com/site/enricoledonne/).
 
-Publications
-============
+Then, I took a break in the academic year 2023--2024,
+when I lived in the Zen monastery [Fudenji](https://www.fudenji.it).
+I returned to the academy life in 2024, as a 
+[Senior Researcher](https://www.unifr.ch/math/en/department/staff/list/people/396609/93164) 
+at the [Department of Mathematics](https://www.unifr.ch/math/en/) 
+of the [University of Fribourg](https://www.unifr.ch/home/en/),
+to collaborate with my boss, mentor and friend [Enrico Le Donne](https://sites.google.com/site/enricoledonne/).
+Since September 2025, I have come back to my home town in Trentino, Italy,
+with the intention to remain.
+
+----
+
+## Publications
 
 ### Preprints
 
@@ -283,8 +303,19 @@ Publications
 
 ----
 
-Collaborators and Friends
-=========================
+## Special Pages
+
+* Course in Fribourg 2025: [Partial Differential Equations](/pages/2025PDE)
+* [Sub-Riemannian Geometry and Beyond, IV](https://sites.google.com/view/srgb/home/4)
+	in Schwarzsee (Fribourg, Switzerland),  23-27 of June 2025.
+* I have made a [PDF calculator](/assets/pdf/PDFCalculator.pdf), with a bit of python and latex. It is a fully functional calculator modulus 100.
+* There is a small but very energetic community of Buddhist monks and nuns on the hills of Parma. 
+	Their home is called [Fudenji](https://www.fudenji.it), the _Temple of the Universal Teaching_.
+	The strict rule of their practice embrace everyone who knocks at their door, in the effort of following the Way, the way from me to you.  
+	In a world where equality is thought as the key of peace, while difference the key of war, they work every day between illusions and enlightment to make _difference_ the key of our encouter.
+	After forty years of exercise and construction, the moment has come to build what alone reunites earth and sky, past and future, ancestors and descendants: the Pagoda.  
+	
+## Collaborators and Friends
 
 <!--
 - Francesco Bigolin
@@ -328,35 +359,9 @@ Ville Kivioja
 Ben Warhurst  
 Marshall Williams  
 
-Short Bio
-=========
-I obtained a double PhD degree in 2017
-from the [University of Jyväskylä](http://www.jyu.fi/en/) (Finland, EU) 
-and from the [University of Trento](http://www.unitn.it/en) (Italy, EU), 
-under the supervision of [Enrico Le Donne](https://sites.google.com/site/enricoledonne/) 
-and [Francesco Serra Cassano](http://www4.unitn.it/People/it/Web/Persona/PER0004233#INFO).
-I later worked in Birmingham (UK) with 
-[Alessio Martini](https://sites.google.com/site/mrtnale/) for one year,
-and in Padova (IT, EU) with 
-[Davide Vittone](https://www.math.unipd.it/en/department/people/user.php?usertype=2&user=364)
-for one year and a half. 
-From 2020 to 2023,
-I have been a postdoc
-at the [Department of Mathematics and Statistics](https://www.jyu.fi/science/en/maths)
-of the [University of Jyväskylä](https://www.jyu.fi/en/)
-in Finland (EU), under the supervision of
-[Katrin Fässler](https://kfaessler.wixsite.com/math/)
-and of [Enrico Le Donne](https://sites.google.com/site/enricoledonne/).
 
-Then, I took a break in the academic year 2023--2024,
-when I lived in the Zen monastery [Fudenji](https://www.fudenji.it).
+## Old Pages
 
-As of 2024, I am working in the academy, 
-under the supervision of my boss, mentor and friend [Enrico Le Donne](https://sites.google.com/site/enricoledonne/).
-
-
-Old Pages
-=========
 * [Thematical Seminar 2024](/pages/2024thematicalseminar)
 * [GeA](pages/GeA): seminario di Geometria e Analisi a Padova.
 * [A tentative bibliographic list for BV functions on Carnot groups](/assets/pdf/BVonCarnot-Bibliography.pdf)
