@@ -120,8 +120,12 @@ with the intention to remain.
 
 ### Preprints
 
+* "Quasi-conformal VS quasi-isometric equivalence in spaces with controlled growth"  
+	(with  K. Fässler, E. Le Donne, A. Ottazzi, P. Pansu)  
+	[[arxiv](https://arxiv.org/abs/2510.12161)]
+<!-- -->
 * "Asymptotics of Riemannian Lie groups with nilpotency step 2"  
-	(with E. L. Donne, L. Nalon, and S.-Y. Ryoo)  
+	(with E. Le Donne, L. Nalon, and S.-Y. Ryoo)  
 	[[arxiv](https://arxiv.org/abs/2503.00560)]
 <!-- -->
 * "Equivalence of sub-Laplacian on Polarized groups"  
