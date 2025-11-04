@@ -120,6 +120,10 @@ with the intention to remain.
 
 ### Preprints
 
+* "Normal Curves in Sub-Finsler Lie Groups: Branching for Strongly Convex Norms and Face Stability for Polyhedral Norms"  
+	(with E. Le Donne, N. Paddeu)  
+	[[arXiv](https://arxiv.org/abs/2510.26261)]
+<!-- -->
 * "Quasi-conformal VS quasi-isometric equivalence in spaces with controlled growth"  
 	(with  K. Fässler, E. Le Donne, A. Ottazzi, P. Pansu)  
 	[[arxiv](https://arxiv.org/abs/2510.12161)]
