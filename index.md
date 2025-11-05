@@ -79,7 +79,9 @@ As of 2024, I am working in the academy,
 under the supervision of my boss, mentor and friend [Enrico Le Donne](https://sites.google.com/site/enricoledonne/).
 -->
 
-If you want to know more about me, here is my [CV](/assets/pdf/SebastianoNicolussiGolo-CurriculumVitae.pdf). 
+If you want to know more about me, here is my [CV](/assets/pdf/SebastianoNicolussiGolo-CurriculumVitae.pdf),
+my [GoogleScholar profile](https://scholar.google.com/citations?user=ItQ928gAAAAJ),
+and my [GitHub profile](https://github.com/Seba272).
 My ORCID ID is: [0000-0002-3773-6471](http://orcid.org/0000-0002-3773-6471).
 
 ----
@@ -112,7 +114,7 @@ at the [Department of Mathematics](https://www.unifr.ch/math/en/)
 of the [University of Fribourg](https://www.unifr.ch/home/en/),
 to collaborate with my boss, mentor and friend [Enrico Le Donne](https://sites.google.com/site/enricoledonne/).
 Since September 2025, I have come back to my home town in Trentino, Italy,
-with the intention to remain.
+with the intention to stay.
 
 ----
 
