@@ -130,6 +130,10 @@ with the intention to stay.
 	(with  K. Fässler, E. Le Donne, A. Ottazzi, P. Pansu)  
 	[[arxiv](https://arxiv.org/abs/2510.12161)]
 <!-- -->
+* "The Bernstein problem for Sobolev intrinsic graphs in the Heisenberg group"  
+	(with F. Serra Cassano, and M. Vedovato)  
+	[[arxiv](https://arxiv.org/abs/2508.13717)]
+<!-- -->
 * "Asymptotics of Riemannian Lie groups with nilpotency step 2"  
 	(with E. Le Donne, L. Nalon, and S.-Y. Ryoo)  
 	[[arxiv](https://arxiv.org/abs/2503.00560)]
