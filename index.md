@@ -124,12 +124,16 @@ with the intention to stay.
 
 ### Preprints
 
+* "Quantitative versions of Pansu Asymptotic Theorem and of Mitchell Tangent Theorem"  
+	(with E. Le Donne, and A. Tettamani)  
+	[[arXiv](https://arxiv.org/abs/2601.21509)]
+<!-- -->
 * "Normal Curves in Sub-Finsler Lie Groups: Branching for Strongly Convex Norms and Face Stability for Polyhedral Norms"  
-	(with E. Le Donne, N. Paddeu)  
+	(with E. Le Donne, and N. Paddeu)  
 	[[arXiv](https://arxiv.org/abs/2510.26261)]
 <!-- -->
 * "Quasi-conformal VS quasi-isometric equivalence in spaces with controlled growth"  
-	(with  K. Fässler, E. Le Donne, A. Ottazzi, P. Pansu)  
+	(with  K. Fässler, E. Le Donne, A. Ottazzi, and P. Pansu)  
 	[[arxiv](https://arxiv.org/abs/2510.12161)]
 <!-- -->
 * "The Bernstein problem for Sobolev intrinsic graphs in the Heisenberg group"  
@@ -141,7 +145,7 @@ with the intention to stay.
 	[[arxiv](https://arxiv.org/abs/2503.00560)]
 <!-- -->
 * "Equivalence of sub-Laplacian on Polarized groups"  
-	(with A. Kijowski and B. Warhurst)  
+	(with A. Kijowski, and B. Warhurst)  
 	[[arxiv](https://arxiv.org/abs/2501.00576)]
 <!-- -->
 * "Moduli of Sub-Laplacians on the second Heisenberg group"  
