@@ -1,11 +1,13 @@
 source 'https://rubygems.org'
 gem "rexml", ">= 3.4.2"
-gem "nokogiri", ">= 1.18.9"
+gem "nokogiri", ">= 1.19.1"
+#gem "nokogiri", ">= 1.18.9"
 #gem "nokogiri", ">= 1.18.4"
 #gem "nokogiri", ">= 1.12.5"
 gem "kramdown", ">= 2.3.1"
 gem "addressable", ">= 2.8.0"
-gem "uri", ">= 1.0.3"
+gem "uri", ">= 1.0.4"
+#gem "uri", ">= 1.0.3"
 group :jekyll_plugins do
     gem 'github-pages'
     gem 'jekyll'
@@ -18,3 +20,5 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.7"
+gem "json", ">= 2.15.2.1"
+gem "faraday", ">= 2.14.1"
