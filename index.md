@@ -13,10 +13,9 @@ profile:
 [Test Page](test)
 -->
 
-[**(Note di Fisica per il liceo)**](/assets/pdf/FisMat.pdf)
 
-I am based in Trentino, Italy,
-and I am on looking for a job!
+I am a mathematician based in Trentino, Italy,
+and I work as a data analyst at [Oripan](www.oripan.it), in Tione.
 If you want to contact me, you can write me an email to <sebastiano2.72@gmail.com>.
 My main areas of research are:
 - **Metric Geometry**,
@@ -325,6 +324,7 @@ with the intention to stay.
 
 ## Special Pages
 
+* [**(Note di Fisica per il liceo)**](/assets/pdf/FisMat.pdf)
 * Course in Fribourg 2025: [Partial Differential Equations](/pages/2025PDE)
 * [Sub-Riemannian Geometry and Beyond, IV](https://sites.google.com/view/srgb/home/4)
 	in Schwarzsee (Fribourg, Switzerland),  23-27 of June 2025.
