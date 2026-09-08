@@ -123,6 +123,10 @@ with the intention to stay.
 
 ### Preprints
 
+* "Harmonic morphisms of sub-Riemannian Lie groups"  
+	(with A. Pinamonti, and B. Warhurst )  
+	[[arXiv](https://arxiv.org/abs/2609.04299)]
+<!-- -->
 * "Quantitative versions of Pansu Asymptotic Theorem and of Mitchell Tangent Theorem"  
 	(with E. Le Donne, and A. Tettamani)  
 	[[arXiv](https://arxiv.org/abs/2601.21509)]
